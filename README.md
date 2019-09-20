@@ -72,6 +72,14 @@
 
 <br/>
 
+**扫码下载体验：**
+* 【注意】请勿使用微信扫码安装，微信对于安装包有审核机制，大家懂的。<br/>
+* 【建议】使用手机浏览器扫码（手机QQ浏览器正常）。<br/>
+
+![image](img/20/apk_qrcode.png)
+
+<br/>
+
 #### 运行截图
 ###  咕唧新闻平台LOGO 
 ![image](img/20/logo20.png)
@@ -258,3 +266,44 @@
 		  -Retrofit2.0+rxandroid+rxjava+okhttp3
 		  -FlycoTabLayout_Lib
 		  -
+
+
+## 初衷
+          
+> - Android开发平时接触的东西很多，也很杂乱，通过这种方式能够将这些联系起来
+> - 学习之用，也是对这种类型应用的探索与热衷实现途径，学习好的点，用自己及网络世界的帮助，以此为纽带，好记性不如烂笔头。
+> - 项目写的可能不太好。一千个人眼中有一千个哈姆雷特，请老铁们多多指正。
+> - 不想当厨师的码农不是一个合格的老司机。
+> - 希望在日后静好岁月也好，波澜狂暴也好，坚持自我本心，热爱及热衷自己想要做的事情，追逐十七岁你最直击心底的那个信念
+> - 在座的一直发财，一直暴富，成为各个领域的大牛。
+
+
+
+### take me a cup of coffee   
+
+![image](img/20/alipay.jpg)  ![image](img/20/wexpay.jpg)
+
+
+### 关于LICENSE
+
+- 咕唧新闻项目只作为平时开发练习及构思交流项目，请勿做其他任何商用。
+- 咕唧新闻UI设计在参考主流类型平台结合自我设计+框架搭建+数据格式+网络库模式+MVP+业务+功能实现均为个人业余时间实现。
+- 归属解释权于dingcl,联系邮箱：maiduoduo0@163.com
+- 若想要转载等请联系我授权。转载请注明出处。互相学习与探讨。有任何问题请联系邮箱。
+
+<br/>
+
+
+Copyright (C) dingcl, nanjCodeTeam,Inc. Open source codes for study only. Do not use for commercial purpose.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
