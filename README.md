@@ -110,7 +110,7 @@
 ![image](img/20/2_aa.jpg)
 ![image](img/20/2_bb.jpg)
 
-![image](img/20/2_.ccjpg)
+![image](img/20/2_cc.jpg)
 ![image](img/20/2_dd.jpg)
 ![image](img/20/2_ee.jpg)
 
