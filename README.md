@@ -278,10 +278,11 @@
 > - 在座的一直发财，一直暴富，成为各个领域的大牛。
 
 
+<br/>
 
 ### take me a cup of coffee   
 
-![image](img/20/alipay.jpg)  ![image](img/20/wexpay.jpg)
+![image](img/20/alipay_1.jpg)  ![image](img/20/wexpay_1.jpg)
 
 
 ### 关于LICENSE
