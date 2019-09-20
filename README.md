@@ -4,6 +4,7 @@
 
 ---
 
+
 - **功能大纲**
 
 &#10084;咕唧新闻平台V1.8.2&#10084;</br>
@@ -280,13 +281,23 @@
 
 <br/>
 
+
+![image](img/20/happy.png)
+
+
+
+<br/>
+
+
 ### If you can, please enjoy a cup of coffee and encourage it.  
+
+![image](img/20/happy1.png)  <br/>
 
 **如果您觉得【咕唧新闻】开源项目能够对您有所学习上的帮助，请扫描下方的二维码随意打赏，要是能打赏个 10.24 🐵就太👍了。您的支持将鼓励我继续创作！**
 
 <br/>
 
-![image](img/20/alipay_1.jpg)  ![image](img/20/wexpay_1.jpg)
+![image](img/20/alipay_1.jpg)         🐵🐵🐵🐵         ![image](img/20/wexpay_1.jpg)
 
 
 ### 关于LICENSE
@@ -299,16 +310,16 @@
 <br/>
 
 
-Copyright (C) dingcl, nanjCodeTeam,Inc. Open source codes for study only. Do not use for commercial purpose.
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+> Copyright (C) dingcl, nanjCodeTeam,Inc. Open source codes for study only. Do not use for commercial purpose.
+> 
+> Licensed under the Apache License, Version 2.0 (the "License");
+> you may not use this file except in compliance with the License.
+> You may obtain a copy of the License at
+> 
+>    [http://www.apache.org/licenses/LICENSE-2.0]()
+> 
+> Unless required by applicable law or agreed to in writing, software
+> distributed under the License is distributed on an "AS IS" BASIS,
+> WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+> See the License for the specific language governing permissions and
+> limitations under the License.
