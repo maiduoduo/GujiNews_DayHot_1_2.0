@@ -48,11 +48,11 @@
 
 ---
 
-<font color=#0099ff size=3 face="黑体">1.开源只为共同学习，请勿商用。问题或者指正请EMAIL:maiduoduo0@163.com</font>
-<font color=#ff9900 size=3 face="黑体">2.数据：来源于EPET/凤凰新闻/百思不得姐/等平台</font>
-<font color=#0A0f99 size=3 face="黑体">3.框架：部分来自开源的比较火，应用广泛的框架</font>
-<font color=#fa000f size=3 face="黑体"> **4.本项目重在学习使用，如您有学习参照的兴趣，请拿到源码后，请勿作任何形式的商用，我们都要有一个侵权意识。尊重开源方及其他平台的商业价值性，产品权力法律保护性。** </font>
-<font color=#A0AA0f size=3 face="黑体"> 5.希望能够带给您一些学习上的帮助，有任何问题及想法可以issue </font>
+<font color=#0099ff size=3 face="黑体">1.开源只为共同学习，请勿商用。问题或者指正请EMAIL:maiduoduo0@163.com</font><br/>
+<font color=#ff9900 size=3 face="黑体">2.数据：来源于EPET/凤凰新闻/百思不得姐/等平台</font><br/>
+<font color=#0A0f99 size=3 face="黑体">3.框架：部分来自开源的比较火，应用广泛的框架</font><br/>
+<font color=#fa000f size=3 face="黑体"> **4.本项目重在学习使用，如您有学习参照的兴趣，请拿到源码后，请勿作任何形式的商用，我们都要有一个侵权意识。尊重开源方及其他平台的商业价值性，产品权力法律保护性。** </font><br/>
+<font color=#A0AA0f size=3 face="黑体"> 5.希望能够带给您一些学习上的帮助，有任何问题及想法可以issue </font><br/>
 
 
 
