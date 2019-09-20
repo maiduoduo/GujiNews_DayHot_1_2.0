@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:background="@color/white"
+    android:gravity="center"
+    android:padding="@dimen/dp_10"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/civWalletNum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dp_5"
+        android:textSize="12sp"
+        android:textColor="@color/Red"
+        android:textStyle="bold"
+        android:text="0.00"/>
+    <TextView
+        android:id="@+id/civWalletName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dp_10"
+        android:textSize="10sp"
+        android:textColor="@color/Gray1"
+        android:textStyle="bold"
+        android:text="优惠券"/>
+</LinearLayout>

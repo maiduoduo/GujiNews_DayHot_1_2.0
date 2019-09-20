@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:clipToPadding="true"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+   <!-- <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        style="@style/action_bar"
+        android:background="@color/colorPrimary"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        app:navigationIcon="@drawable/ic_arrow_back_light"
+        app:title="@string/channel_manage" />-->
+
+    <ImageView
+        android:id="@+id/ibnCloseChannel"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_gravity="right"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/transparent"
+        android:src="@drawable/ic_close_dark"/>
+
+    <!--我的频道-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                style="@style/news_channel_sort_title"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:text="@string/my_channel" />
+            <TextView
+                style="@style/news_channel_sort_title"
+                android:textSize="10sp"
+                android:textColor="@color/Gray3"
+                android:text="@string/my_channel_des" />
+        </LinearLayout>
+        <TextView
+            style="@style/news_channel_sort_title"
+            android:textStyle="bold"
+            android:textSize="12sp"
+            android:textColor="@color/material_yellow_800"
+            android:layout_alignParentRight="true"
+            android:text="@string/channel_clear" />
+    </RelativeLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/news_channel_mine_rv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:overScrollMode="never"></android.support.v7.widget.RecyclerView>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/dp_10">
+        <TextView
+            style="@style/news_channel_sort_title"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:text="@string/more_channel" />
+        <TextView
+            style="@style/news_channel_sort_title"
+            android:textSize="10sp"
+            android:textColor="@color/Gray3"
+            android:text="@string/more_channel_des" />
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/news_channel_more_rv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:overScrollMode="never"></android.support.v7.widget.RecyclerView>
+</LinearLayout>

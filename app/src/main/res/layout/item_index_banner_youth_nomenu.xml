@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fitsSystemWindows="true"
+    android:background="@color/white"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.youth.banner.Banner
+        android:id="@+id/banner1"
+        app:image_scale_type="fit_xy"
+        app:banner_default_image="@drawable/default_img_guji"
+        app:indicator_width="5dp"
+        app:indicator_height="5dp"
+        app:indicator_margin="2dp"
+        app:indicator_drawable_selected="@drawable/news_banner_heart_red_enabled"
+        app:indicator_drawable_unselected="@drawable/news_banner_heart_white_enabled"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/banner_heights"/>
+</RelativeLayout>

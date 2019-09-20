@@ -1,0 +1,148 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    defaultConfig {
+        applicationId "com.cnews.cloudnews.smart"
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+        versionCode 3
+        versionName "1.3.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true
+
+        packagingOptions {
+            exclude 'META-INF/rxjava.properties'
+        }
+
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_8
+            targetCompatibility JavaVersion.VERSION_1_8
+        }
+
+        //bugly   设置支持的SO库架构
+        ndk {
+            // 设置支持的SO库架构
+            abiFilters 'armeabi' //, 'x86', 'armeabi-v7a', 'x86_64', 'arm64-v8a'
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    lintOptions{
+        checkReleaseBuilds false
+        abortOnError false
+        //关闭检索的功能
+        disable 'GoogleAppIndexingWarning'
+        baseline file("lint-baseline.xml")
+    }
+
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+//            res.srcDirs += ['res_extends']
+            res.srcDirs = [
+                    'src/main/res', //默认只有这一个路径
+                    'src/main/res_firenews'  //声明gradle在编译的时候到这个文件夹找资源文件
+            ]
+
+        }
+    }
+
+    /*Umeng配置渠道*/
+    flavorDimensions "default"
+    productFlavors {
+        tongjibao{
+            manifestPlaceholders = [UMENG_CHANNEL_VALUE: "tongjibao"]
+        }
+    }
+
+}
+
+
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation "com.android.support.constraint:constraint-layout:$rootProject.ext.constraintLayout"
+    testImplementation "junit:junit:$rootProject.ext.junit"
+    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+    implementation "com.android.support:recyclerview-v7:$rootProject.ext.supportStandardVersion"
+    implementation "com.android.support:cardview-v7:$rootProject.ext.supportStandardVersion"
+    implementation "com.android.support:appcompat-v7:$rootProject.ext.supportStandardVersion"
+    implementation "com.android.support:design:$rootProject.ext.supportStandardVersion"
+
+    //butterknife
+    implementation "com.jakewharton:butterknife:$rootProject.ext.butterknife"
+    annotationProcessor "com.jakewharton:butterknife-compiler:$rootProject.ext.butterknife"
+
+    //AutoDispose解决RxJava内存泄漏
+    implementation "com.uber.autodispose:autodispose:$rootProject.ext.autodispose"
+    implementation "com.uber.autodispose:autodispose-android:$rootProject.ext.autodispose_android"
+    implementation "com.uber.autodispose:autodispose-android-archcomponents:$rootProject.ext.autodispose_android_archcomponent"
+    //Retrofit2.0
+    //    implementation "io.reactivex.rxjava2:rxjava:$rootProject.ext.rxjava"
+    implementation "io.reactivex.rxjava2:rxandroid:$rootProject.ext.rxandroid"
+    implementation "com.squareup.retrofit2:retrofit:$rootProject.ext.retrofit"
+    implementation "com.squareup.retrofit2:adapter-rxjava2:$rootProject.ext.adapterRxjava2"
+    implementation "com.squareup.retrofit2:converter-gson:$rootProject.ext.converterGson"
+    implementation "com.squareup.okhttp3:okhttp:$rootProject.ext.okhttp"
+    implementation 'com.gyf.immersionbar:immersionbar:2.3.3-beta15'
+    //rxjava
+    implementation 'io.reactivex:rxjava:1.0.1'
+    implementation 'io.reactivex:rxandroid:1.0.1'
+    //okhttp3
+    implementation 'com.squareup.okhttp3:okhttp:3.10.0'
+    implementation "com.squareup.okhttp3:logging-interceptor:3.10.0"
+
+    //FlycoTabLayout_Lib
+    implementation 'com.flyco.tablayout:FlycoTabLayout_Lib:2.1.2@aar'
+    implementation 'com.jaeger.statusbarutil:library:1.4.0'
+
+    //    implementation 'com.github.bumptech.glide:glide:4.5.0'//显示图片框架
+    implementation 'com.github.bumptech.glide:glide:3.6.1'
+
+    //显示图片框架
+
+    //fresco
+    implementation "com.facebook.fresco:fresco:$rootProject.frescoVersion"
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.5.0'
+
+    // --------------------bga-banner 以下两个库是必须依赖的 ----------------------------
+
+    //    implementation 'cn.bingoogolapple:bga-banner:2.2.5@aar'
+
+    //    implementation 'com.android.support:support-v4:23.1.1'
+
+    // --------------------bga-banner 以上两个库是必须依赖的 ----------------------------
+
+    //banner
+    implementation 'com.youth.banner:banner:1.4.10'
+    implementation(name: 'base_quick_adpter', ext: 'aar')
+
+    //tab
+    implementation 'com.github.hackware1993:MagicIndicator:1.4.0'
+    //SwipeToLoadLayout
+    implementation 'com.github.Aspsine:SwipeToLoadLayout:1.0.4'
+    //video
+    implementation 'cn.jzvd:jiaozivideoplayer:6.4.1'
+    //xrecyclerview
+    implementation 'com.jcodecraeer:xrecyclerview:1.5.9'
+
+    //bugly
+    implementation "com.tencent.bugly:crashreport:$rootProject.buglyCrashreport" //其中latest.release指代最新Bugly SDK版本号，也可以指定明确的版本号，例如2.1.9
+    implementation "com.tencent.bugly:nativecrashreport:$rootProject.nativecrashreport" //其中latest.release指代最新Bugly NDK版本号，也可以指定明确的版本号，例如3.0
+    //umeng 统计需要的最新版本组件化基础库和统计SDK
+    implementation 'com.umeng.sdk:common:latest.integration'
+    implementation 'com.umeng.sdk:analytics:latest.integration'
+}

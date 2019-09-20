@@ -1,0 +1,860 @@
+{
+  "alert_target": [
+    {
+      "target": "",
+      "text": "我知道了"
+    }
+  ],
+  "cdn_info": {
+    "cache_key": "0",
+    "cdn_version": "20190124141738",
+    "url": "/index/main.html"
+  },
+  "code": "succeed",
+  "data": {
+    "3760": {
+      "css": {
+        "background_color": "",
+        "margin_bottom": 40
+      },
+      "data": {
+        "berserk": {
+          "goods": [
+            {
+              "discount_img": {
+                "img_size": "70x48",
+                "img_url": "https://static.epetbar.com/static_wap/appmall/main/index_icon_berserk_discount.png?version=03"
+              },
+              "gid": "152471",
+              "image": {
+                "img_size": "165x165",
+                "img_url": "https://img1.epetbar.com/2016-01/28/14/adb7277615f99499a6d1a5fc2037967e.jpg"
+              },
+              "little_price": "169.00",
+              "sale_price": "16.90",
+              "target": {
+                "mode": "miaosha",
+                "param": {
+                  "tid": "16:00",
+                  "title": "每日疯抢"
+                }
+              },
+              "vip": {}
+            },
+            {
+              "discount_img": {
+                "img_size": "70x48",
+                "img_url": "https://static.epetbar.com/static_wap/appmall/main/index_icon_berserk_discount.png?version=03"
+              },
+              "gid": "130677",
+              "image": {
+                "img_size": "165x165",
+                "img_url": "https://img1.epetbar.com/2015-03/03/b10a1eed1f86d930ba2245d05185ba69.jpg"
+              },
+              "little_price": "168.00",
+              "sale_price": "16.80",
+              "target": {
+                "mode": "miaosha",
+                "param": {
+                  "tid": "16:00",
+                  "title": "每日疯抢"
+                }
+              },
+              "vip": {}
+            }
+          ],
+          "left": {
+            "img_size": "119x32",
+            "img_url": "https://static.epetbar.com/static_wap/appmall/main/index_icon_berserk_mark_415.png?version=03",
+            "target": []
+          },
+          "stateTitle": "正在疯抢",
+          "title": "16点场"
+        },
+        "egroup": {
+          "goods": [
+            {
+              "gid": "130685",
+              "image": {
+                "img_size": "165x165",
+                "img_url": "https://img1.epetbar.com/2015-08/07/16/c1ffc0f3676552c24bf160ba0c28f8b9.jpg"
+              },
+              "little_price": "98.00",
+              "sale_price": "75.00",
+              "target": {
+                "mode": "web",
+                "param": "https://wap.epet.com/group/ev226/main.html?pettype=dog"
+              }
+            },
+            {
+              "gid": "130681",
+              "image": {
+                "img_size": "165x165",
+                "img_url": "https://img1.epetbar.com/2015-11/27/16/c3fb3801553f03d764be20d61037ecfa.jpg"
+              },
+              "little_price": "160.00",
+              "sale_price": "46.00",
+              "target": {
+                "mode": "web",
+                "param": "https://wap.epet.com/group/ev226/main.html?pettype=dog"
+              }
+            }
+          ],
+          "left": {
+            "img_size": "117x32",
+            "img_url": "https://static.epetbar.com/static_wap/appmall/main/index_icon_egroup_415.png?version=03",
+            "target": []
+          },
+          "title": ""
+        }
+      },
+      "index": "3760",
+      "is_dynamic": "1",
+      "is_show": 1,
+      "type": "209",
+      "type_name": "每日疯抢和E宠团(>=415)"
+    },
+    "3776000": {
+      "css": {
+        "background_color": "",
+        "margin_bottom": 20
+      },
+      "data": {
+        "cateid": "0",
+        "goods": [
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "127851"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "127851"
+            },
+            "gid": "127851",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2017-08/18/18/3bef69f3c9a13b3c7ce347f0d027df9d.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "18.00",
+            "subject": "Smartbones 健齿味夹肉洁齿骨 中号5.5寸/支"
+          },
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "153797"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "153797"
+            },
+            "gid": "153797",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2018-09/18/18/6ccf66d220c45fa17108dc801f4df79b.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "278.00",
+            "subject": "加拿大原装进口 派斯宝LEGACY 鸡肉配方大型犬幼犬粮 3.6kg"
+          }
+        ]
+      },
+      "index": "3776000",
+      "is_dynamic": "1",
+      "is_show": 1,
+      "type": "212",
+      "type_name": "双商品陈列式模板(>=415)"
+    },
+    "3776001": {
+      "css": {
+        "background_color": "",
+        "margin_bottom": 20
+      },
+      "data": {
+        "cateid": "0",
+        "goods": [
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "127849"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "127849"
+            },
+            "gid": "127849",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2017-08/18/18/96c97d867526d848f01e38b8db388992.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "13.00",
+            "subject": "Smartbones 健齿味夹肉洁齿骨 小号5寸/支"
+          },
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "127849"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "127849"
+            },
+            "gid": "127849",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2017-08/18/18/96c97d867526d848f01e38b8db388992.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "13.00",
+            "subject": "Smartbones 健齿味夹肉洁齿骨 小号5寸/支"
+          }
+        ]
+      },
+      "index": "3776001",
+      "is_dynamic": "1",
+      "is_show": 1,
+      "type": "212",
+      "type_name": "双商品陈列式模板(>=415)"
+    },
+    "3776002": {
+      "css": {
+        "background_color": "",
+        "margin_bottom": 20
+      },
+      "data": {
+        "cateid": "0",
+        "goods": [
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "138033"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "138033"
+            },
+            "gid": "138033",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2015-10/09/14/2931b017ec968db6a916eb05b59bdb81.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "112.00",
+            "subject": "K9 膳食调理天然营养配方 全犬种成犬粮 2kg"
+          },
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "155990"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "155990"
+            },
+            "gid": "155990",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2015-06/17/28d2b83e549210d0b293a53c1431c752.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "68.00",
+            "subject": "宠得治EPA犬用钙丸 60片 "
+          }
+        ]
+      },
+      "index": "3776002",
+      "is_dynamic": "1",
+      "is_show": 1,
+      "type": "212",
+      "type_name": "双商品陈列式模板(>=415)"
+    },
+    "3776003": {
+      "css": {
+        "background_color": "",
+        "margin_bottom": 20
+      },
+      "data": {
+        "cateid": "0",
+        "goods": [
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "138033"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "138033"
+            },
+            "gid": "138033",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2015-10/09/14/2931b017ec968db6a916eb05b59bdb81.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "112.00",
+            "subject": "K9 膳食调理天然营养配方 全犬种成犬粮 2kg"
+          },
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "125597"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "125597"
+            },
+            "gid": "125597",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2015-01/08/2a82472a01c68a68717fb9abdab858e9.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "170.00",
+            "subject": "百德加Pitegra 金枪鱼&糙米全犬种全犬期犬粮 2.7KG"
+          }
+        ]
+      },
+      "index": "3776003",
+      "is_dynamic": "1",
+      "is_show": 1,
+      "type": "212",
+      "type_name": "双商品陈列式模板(>=415)"
+    },
+    "3776004": {
+      "css": {
+        "background_color": "",
+        "margin_bottom": 20
+      },
+      "data": {
+        "cateid": "0",
+        "goods": [
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "116593"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "116593"
+            },
+            "gid": "116593",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2016-09/19/14/86dd7915dab312ed8bc27c6953cd8d0b.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "72.00",
+            "subject": "美国KONG 磨牙漏食 成犬无绳红色磨牙哑铃骨玩具 S"
+          },
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "165271"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "165271"
+            },
+            "gid": "165271",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2018-08/02/11/950f30ae45473140504b415e7700f043.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "396.00",
+            "subject": "玫斯METZ 无谷物小型犬奶糕粮 6.8kg(15lb) "
+          }
+        ]
+      },
+      "index": "3776004",
+      "is_dynamic": "1",
+      "is_show": 1,
+      "type": "212",
+      "type_name": "双商品陈列式模板(>=415)"
+    },
+    "3776005": {
+      "css": {
+        "background_color": "",
+        "margin_bottom": 20
+      },
+      "data": {
+        "cateid": "0",
+        "goods": [
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "100272"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "100272"
+            },
+            "gid": "100272",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2016-09/19/14/09d99a4969cfac060f02c7b0d35ae3f2.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "71.00",
+            "subject": "美国KONG 磨牙漏食 经典成犬红色 耐咬葫芦玩具 S号"
+          },
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "153797"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "153797"
+            },
+            "gid": "153797",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2018-09/18/18/6ccf66d220c45fa17108dc801f4df79b.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "278.00",
+            "subject": "加拿大原装进口 派斯宝LEGACY 鸡肉配方大型犬幼犬粮 3.6kg"
+          }
+        ]
+      },
+      "index": "3776005",
+      "is_dynamic": "1",
+      "is_show": 1,
+      "type": "212",
+      "type_name": "双商品陈列式模板(>=415)"
+    },
+    "3776006": {
+      "css": {
+        "background_color": "",
+        "margin_bottom": 20
+      },
+      "data": {
+        "cateid": "0",
+        "goods": [
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "127850"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "127850"
+            },
+            "gid": "127850",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2017-08/18/18/5bae6e5bf2c82fbedbe58c9bbe183080.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "50.00",
+            "subject": "Smartbones 健齿味夹肉洁齿骨 小号5寸/支"
+          },
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "125597"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "125597"
+            },
+            "gid": "125597",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2015-01/08/2a82472a01c68a68717fb9abdab858e9.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "170.00",
+            "subject": "百德加Pitegra 金枪鱼&糙米全犬种全犬期犬粮 2.7KG"
+          }
+        ]
+      },
+      "index": "3776006",
+      "is_dynamic": "1",
+      "is_show": 1,
+      "type": "212",
+      "type_name": "双商品陈列式模板(>=415)"
+    },
+    "3776007": {
+      "css": {
+        "background_color": "",
+        "margin_bottom": 20
+      },
+      "data": {
+        "cateid": "0",
+        "goods": [
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "116595"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "116595"
+            },
+            "gid": "116595",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2016-09/19/14/9a31d8a080e436bb809bef62f03c875d.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "115.00",
+            "subject": "美国KONG 磨牙漏食 成犬无绳黑色磨牙哑铃骨玩具 咬合力强 中号"
+          },
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "116593"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "116593"
+            },
+            "gid": "116593",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2016-09/19/14/86dd7915dab312ed8bc27c6953cd8d0b.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "72.00",
+            "subject": "美国KONG 磨牙漏食 成犬无绳红色磨牙哑铃骨玩具 S"
+          }
+        ]
+      },
+      "index": "3776007",
+      "is_dynamic": "1",
+      "is_show": 1,
+      "type": "212",
+      "type_name": "双商品陈列式模板(>=415)"
+    },
+    "3776008": {
+      "css": {
+        "background_color": "",
+        "margin_bottom": 20
+      },
+      "data": {
+        "cateid": "0",
+        "goods": [
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "155990"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "155990"
+            },
+            "gid": "155990",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2015-06/17/28d2b83e549210d0b293a53c1431c752.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "68.00",
+            "subject": "宠得治EPA犬用钙丸 60片 "
+          },
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "116597"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "116597"
+            },
+            "gid": "116597",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2016-09/19/14/4ae3396ae922e910829097e5ed815080.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "68.00",
+            "subject": "美国KONG 弹力磨牙系列 弹力实心球玩具 S"
+          }
+        ]
+      },
+      "index": "3776008",
+      "is_dynamic": "1",
+      "is_show": 1,
+      "type": "212",
+      "type_name": "双商品陈列式模板(>=415)"
+    },
+    "3776009": {
+      "css": {
+        "background_color": "",
+        "margin_bottom": 20
+      },
+      "data": {
+        "cateid": "0",
+        "goods": [
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "165271"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "165271"
+            },
+            "gid": "165271",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2018-08/02/11/950f30ae45473140504b415e7700f043.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "396.00",
+            "subject": "玫斯METZ 无谷物小型犬奶糕粮 6.8kg(15lb) "
+          },
+          {
+            "add_cart_target": {
+              "mode": "addcart",
+              "param": {
+                "gid": "127850"
+              }
+            },
+            "detail_target": {
+              "mode": "goods",
+              "param": "127850"
+            },
+            "gid": "127850",
+            "good_image": {
+              "img_size": "165x165",
+              "img_url": "https://img1.epetbar.com/2017-08/18/18/5bae6e5bf2c82fbedbe58c9bbe183080.jpg"
+            },
+            "recommend_reason": "",
+            "sale_price": "50.00",
+            "subject": "Smartbones 健齿味夹肉洁齿骨 小号5寸/支"
+          }
+        ]
+      },
+      "index": "3776009",
+      "is_dynamic": "1",
+      "is_show": 1,
+      "type": "212",
+      "type_name": "双商品陈列式模板(>=415)"
+    },
+    "3802": {
+      "css": {
+        "background_color": "#ffffff",
+        "margin_bottom": 40
+      },
+      "data": {
+        "column_images": [
+          [
+            {
+              "advid": "31124",
+              "atid": "0",
+              "img_size": "250x420",
+              "img_url": "http://img2.epetbar.com/2019-01/21/14/a4a128710dbe7fa962963fd195f6fc76.png?x-oss-process=style/water",
+              "target": {
+                "mode": "AsyncPop",
+                "param": "146"
+              }
+            }
+          ],
+          [
+            {
+              "advid": "31125",
+              "atid": "0",
+              "img_size": "250x420",
+              "img_url": "http://img2.epetbar.com/2018-12/18/09/0d6ed6978effc01844543585663d1c8d.png?x-oss-process=style/water",
+              "target": {
+                "mode": "web",
+                "param": "https://wap.epet.com/app/newfangled/index"
+              }
+            }
+          ],
+          [
+            {
+              "advid": "31123",
+              "atid": "0",
+              "img_size": "250x420",
+              "img_url": "http://img2.epetbar.com/2018-12/17/18/09c336a2bd2cafcaa1fd7b0c93786852.png?x-oss-process=style/water",
+              "target": {
+                "mode": "AsyncPop",
+                "param": "148"
+              }
+            }
+          ]
+        ]
+      },
+      "index": "3802",
+      "is_dynamic": "1",
+      "is_first": 1,
+      "is_show": 1,
+      "type": "203",
+      "type_name": "通用广告模板(>=415)"
+    },
+    "3858": {
+      "css": {
+        "background_color": "#ffffff",
+        "margin_bottom": 40
+      },
+      "data": {
+        "slip_images": [
+          {
+            "left_down_image": {
+              "img_size": "345X345",
+              "img_url": "http://img2.epetbar.com/nowater/showcase/2018/12/26/131435471.jpg@!water",
+              "target": {
+                "mode": "web",
+                "param": "http://wap.epet.com/app/brandSale?id=127"
+              }
+            },
+            "right_down_image": {
+              "img_size": "345X345",
+              "img_url": "http://img2.epetbar.com/nowater/showcase/2018/12/18/112524716.jpg@!water",
+              "target": {
+                "mode": "web",
+                "param": "http://wap.epet.com/app/brandSale?id=213"
+              }
+            },
+            "top_image": {
+              "img_size": "710X320",
+              "img_url": "http://img2.epetbar.com/nowater/showcase/2018/11/29/095502728.jpg@!water",
+              "target": {
+                "mode": "web",
+                "param": "http://wap.epet.com/app/brandSale?id=378"
+              }
+            }
+          },
+          {
+            "left_down_image": {
+              "img_size": "345X345",
+              "img_url": "http://img2.epetbar.com/nowater/showcase/2018/10/16/135917588.jpg@!water",
+              "target": {
+                "mode": "web",
+                "param": "http://wap.epet.com/app/brandSale?id=546"
+              }
+            },
+            "right_down_image": {
+              "img_size": "345X345",
+              "img_url": "http://img2.epetbar.com/nowater/showcase/2019/01/15/151130617.jpg@!water",
+              "target": {
+                "mode": "web",
+                "param": "http://wap.epet.com/app/brandSale?id=476"
+              }
+            },
+            "top_image": {
+              "img_size": "710X320",
+              "img_url": "http://img2.epetbar.com/nowater/showcase/2018/10/16/134847844.jpg@!water",
+              "target": {
+                "mode": "web",
+                "param": "http://wap.epet.com/app/brandSale?id=33"
+              }
+            }
+          },
+          {
+            "left_down_image": {
+              "img_size": "345X345",
+              "img_url": "http://img2.epetbar.com/nowater/showcase/2019/01/02/103937848.jpg@!water",
+              "target": {
+                "mode": "web",
+                "param": "http://wap.epet.com/app/brandSale?id=43"
+              }
+            },
+            "right_down_image": {
+              "img_size": "345X345",
+              "img_url": "http://img2.epetbar.com/nowater/showcase/2018/11/22/105033105.jpg@!water",
+              "target": {
+                "mode": "web",
+                "param": "http://wap.epet.com/app/brandSale?id=813"
+              }
+            },
+            "top_image": {
+              "img_size": "710X320",
+              "img_url": "http://img2.epetbar.com/nowater/showcase/2018/11/16/105120480.jpg@!water",
+              "target": {
+                "mode": "web",
+                "param": "http://wap.epet.com/app/brandSale?id=787"
+              }
+            }
+          },
+          {
+            "left_down_image": {
+              "img_size": "345X345",
+              "img_url": "http://img2.epetbar.com/nowater/showcase/2018/10/16/151820137.jpg@!water",
+              "target": {
+                "mode": "web",
+                "param": "http://wap.epet.com/app/brandSale?id=7"
+              }
+            },
+            "right_down_image": {
+              "img_size": "345X345",
+              "img_url": "http://img2.epetbar.com/nowater/showcase/2018/10/24/203842635.jpg@!water",
+              "target": {
+                "mode": "web",
+                "param": "http://wap.epet.com/app/brandSale?id=519"
+              }
+            },
+            "top_image": {
+              "img_size": "710X320",
+              "img_url": "http://img2.epetbar.com/nowater/showcase/2018/10/16/132438253.jpg@!water",
+              "target": {
+                "mode": "web",
+                "param": "http://wap.epet.com/app/brandSale?id=515"
+              }
+            }
+          }
+        ]
+      },
+      "index": "3858",
+      "is_dynamic": "1",
+      "is_show": 1,
+      "type": "214",
+      "type_name": "多广告轮播式模板(>=415)"
+    }
+  },
+  "epet_site": "epet",
+  "hash": "",
+  "is_dynamic": 1,
+  "login_status": 0,
+  "mall_uid": "epet_0",
+  "mall_user": "",
+  "msg": "",
+  "push_alias": "appmall_a06e9ea8406832004520c7872366f0bb",
+  "push_tags": "version421",
+  "real_page_id": 0,
+  "sys_time": 1548320808
+}

@@ -1,0 +1,1452 @@
+{
+  "adcode": "320113",
+  "ads": "",
+  "adsType": 0,
+  "articles": [
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6504365375323375617",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 3,
+      "contentType": 3,
+      "createTime": 1550750678,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:萌宠大团体",
+          "type": "media"
+        },
+        {
+          "name": "不想看:越狱",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:哈士奇",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "越狱 哈士奇 搞笑",
+      "mediaId": "6488487254342762496",
+      "mediaName": "萌宠大团体",
+      "newsId": "6504365375323375617",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/cdedd044/70faa777eb1a53b5387d333ed270728a",
+          "width": 870
+        }
+      ],
+      "playCount": 43194,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 1,
+      "score": 0.2842015400161939,
+      "state": 0,
+      "template": 9,
+      "title": "笼子已经关不住二哈了，各种花式越狱，太搞笑了！",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 1788108,
+              "url": "http://v.cdn.sohu.com/0/cf6239a9ce745b37041360f9e7ec1479/0"
+            }
+          ],
+          "duration": 40.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 1788108,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/cf6239a9ce745b37041360f9e7ec1479/0"
+        }
+      ],
+      "virtualTime": 1550821637593
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6504313325004785665",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 1,
+      "contentType": 3,
+      "createTime": 1550744791,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:清酒归雪",
+          "type": "media"
+        },
+        {
+          "name": "不想看:张云雷",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宋丹丹",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "张云雷 宋丹丹 搞笑",
+      "mediaId": "6490707313756733440",
+      "mediaName": "清酒归雪",
+      "newsId": "6504313325004785665",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/cdedd044/fabf2a2413b125ccb5c0597dde7c6bf0",
+          "width": 870
+        }
+      ],
+      "playCount": 35042,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 1,
+      "score": 0.27693363368901774,
+      "state": 0,
+      "template": 9,
+      "title": "张云雷登台，宋丹丹顿时不敢相信，德云社也有这么帅的？",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 3301272,
+              "url": "http://v.cdn.sohu.com/0/8a13171b287134428926ee3d054f15e7/0"
+            }
+          ],
+          "duration": 69.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 3301272,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/8a13171b287134428926ee3d054f15e7/0"
+        }
+      ],
+      "virtualTime": 1550821637496
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6504491419393067008",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 2,
+      "contentType": 3,
+      "createTime": 1550764878,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:游戏不止步",
+          "type": "media"
+        },
+        {
+          "name": "不想看:貂蝉",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:花木兰",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "貂蝉 花木兰 搞笑",
+      "mediaId": "6496494072776097792",
+      "mediaName": "游戏不止步",
+      "newsId": "6504491419393067008",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/cdedd044/e0aefca43fdec8a35020149097ffb90d",
+          "width": 870
+        }
+      ],
+      "playCount": 51,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.14887212124600033,
+      "state": 0,
+      "template": 9,
+      "title": "王者荣耀搞笑：花木兰救队友遇貂蝉，我无敌，你随意！",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 7226396,
+              "url": "http://v.cdn.sohu.com/0/b3f2f2ac63a464128facb250a9a6c61c/0"
+            }
+          ],
+          "duration": 61.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 7226396,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/b3f2f2ac63a464128facb250a9a6c61c/0"
+        }
+      ],
+      "virtualTime": 1550821637399
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6504569508051552257",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 0,
+      "contentType": 3,
+      "createTime": 1550806005,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:春风芹愁",
+          "type": "media"
+        },
+        {
+          "name": "不想看:烹饪技巧",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:年糕",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "烹饪技巧 年糕 搞笑",
+      "mediaId": "6488871060543373313",
+      "mediaName": "春风芹愁",
+      "newsId": "6504569508051552257",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 358,
+          "url": "http://p.cdn.sohu.com/eee85694/7c133a922fbedb02d494d417521ded4a",
+          "width": 640
+        }
+      ],
+      "playCount": 14,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.11030120757320669,
+      "state": 0,
+      "template": 9,
+      "title": "小宝宝面对美食诱惑的反应，真是让人笑崩溃！",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 2998829,
+              "url": "http://v.cdn.sohu.com/0/2f981efebfb6993f58b17150e7ec5739/0"
+            }
+          ],
+          "duration": 81.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 2998829,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/2f981efebfb6993f58b17150e7ec5739/0"
+        }
+      ],
+      "virtualTime": 1550821637302
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6504291183907309568",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 359,
+      "contentType": 3,
+      "createTime": 1550739600,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:鱼豆er",
+          "type": "media"
+        },
+        {
+          "name": "不想看:王者荣耀",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:华为手机",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "王者荣耀 华为手机 搞笑",
+      "mediaId": "6456222971097776129",
+      "mediaName": "鱼豆er",
+      "newsId": "6504291183907309568",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/cdedd044/a2c16420d6102cc520ac4444f5847921",
+          "width": 870
+        }
+      ],
+      "playCount": 34,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.10268044602947195,
+      "state": 0,
+      "template": 9,
+      "title": "王者荣耀爆笑：直接杀进泉水里去了？用这个新皮肤膨胀了！",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 16542078,
+              "url": "http://v.cdn.sohu.com/0/24b385b49522b26eabefaa4d679e70ed/0"
+            }
+          ],
+          "duration": 142.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 16542078,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/24b385b49522b26eabefaa4d679e70ed/0"
+        }
+      ],
+      "virtualTime": 1550821637205
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6503514024708147200",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 0,
+      "contentType": 3,
+      "createTime": 1550549897,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:拳坛没有神",
+          "type": "media"
+        },
+        {
+          "name": "不想看:烹饪技巧",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "烹饪技巧 搞笑",
+      "mediaId": "6469994268218884097",
+      "mediaName": "拳坛没有神",
+      "newsId": "6503514024708147200",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/eee85694/9d710d0e4d2e2370beaeb1392398b501",
+          "width": 870
+        }
+      ],
+      "playCount": 3676,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.09754835525699448,
+      "state": 0,
+      "template": 9,
+      "title": "土豆泥，土豆块，土豆条，土豆片，太逗了看完不许笑",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 730280,
+              "url": "http://v.cdn.sohu.com/0/0b0d1a732f2d2fd9c43704ab1120ae53/0"
+            }
+          ],
+          "duration": 21.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 730280,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/0b0d1a732f2d2fd9c43704ab1120ae53/0"
+        }
+      ],
+      "virtualTime": 1550821637108
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6503527529553332225",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 76,
+      "contentType": 3,
+      "createTime": 1550553485,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:小时候看过的电视剧",
+          "type": "media"
+        },
+        {
+          "name": "不想看:宋晓峰",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:金牛",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "宋晓峰 金牛 搞笑",
+      "mediaId": "6458397912744329216",
+      "mediaName": "小时候看过的电视剧",
+      "newsId": "6503527529553332225",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/cdedd044/fea40f34aa5830a4d201bcd63c3b644b",
+          "width": 870
+        }
+      ],
+      "playCount": 910,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.06928184827568178,
+      "state": 0,
+      "template": 9,
+      "title": "宋晓峰请女孩吃饭，一份牛排168元，宋晓峰：你这是金牛啊",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 8032013,
+              "url": "http://v.cdn.sohu.com/0/1f8b4aede9e73218703a2751aae72c30/0"
+            }
+          ],
+          "duration": 244.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 8032013,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/1f8b4aede9e73218703a2751aae72c30/0"
+        }
+      ],
+      "virtualTime": 1550821637011
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6503612218989348864",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 0,
+      "contentType": 3,
+      "createTime": 1550579400,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:爆笑剧乐部",
+          "type": "media"
+        },
+        {
+          "name": "不想看:法海",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:许仙",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "法海 许仙 搞笑",
+      "mediaId": "6444859470676754433",
+      "mediaName": "爆笑剧乐部",
+      "newsId": "6503612218989348864",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/cdedd044/66b846dc1d82f0bbd6120a0ac75a8ecb",
+          "width": 870
+        }
+      ],
+      "playCount": 721,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.05548907839591312,
+      "state": 0,
+      "template": 9,
+      "title": "笑傲帮：青白二蛇与法海爆笑对决！小青这“法宝”也是没谁了！",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 23596486,
+              "url": "http://v.cdn.sohu.com/0/7344572ba2070d9c561234daaaf773cf/0"
+            }
+          ],
+          "duration": 261.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 23596486,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/7344572ba2070d9c561234daaaf773cf/0"
+        }
+      ],
+      "virtualTime": 1550821636914
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6502298519884269568",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 16,
+      "contentType": 3,
+      "createTime": 1550262204,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:达摩娱乐集",
+          "type": "media"
+        },
+        {
+          "name": "不想看:蛇",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "蛇 搞笑",
+      "mediaId": "6499327689080438785",
+      "mediaName": "达摩娱乐集",
+      "newsId": "6502298519884269568",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 483,
+          "url": "http://p.cdn.sohu.com/eee85694/7259d96880b5ce6b4eba21d400f18f82",
+          "width": 864
+        }
+      ],
+      "playCount": 37968,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.055054140715843754,
+      "state": 0,
+      "template": 9,
+      "title": "白蛇传说：小白初次为人走路超搞笑，还是用她蛇的步伐游走",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 3806731,
+              "url": "http://v.cdn.sohu.com/0/4ed874e0baede9ddcf3ae16c6a00a27a/0"
+            }
+          ],
+          "duration": 51.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 3806731,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/4ed874e0baede9ddcf3ae16c6a00a27a/0"
+        }
+      ],
+      "virtualTime": 1550821636817
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6495155683938273280",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 3,
+      "contentType": 3,
+      "createTime": 1548379860,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:王者荣耀搞笑视频one",
+          "type": "media"
+        },
+        {
+          "name": "不想看:王者荣耀",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:游戏",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "王者荣耀 游戏 搞笑",
+      "mediaId": "6495155871767592960",
+      "mediaName": "王者荣耀搞笑视频one",
+      "newsId": "6495155683938273280",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/cdedd044/09eca986fd13adc2259879667d4f9cb3",
+          "width": 870
+        }
+      ],
+      "playCount": 97,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.029472058054996884,
+      "state": 0,
+      "template": 9,
+      "title": "王者荣耀搞笑视频 你是国服 我是专治各种不服",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 4387510,
+              "url": "http://v.cdn.sohu.com/0/f42a33628c0179b6d82f8d5e5a633d0d/0"
+            }
+          ],
+          "duration": 40.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 4387510,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/f42a33628c0179b6d82f8d5e5a633d0d/0"
+        }
+      ],
+      "virtualTime": 1550821636720
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6504320995585689601",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 2,
+      "contentType": 3,
+      "createTime": 1550749830,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:友友说",
+          "type": "media"
+        },
+        {
+          "name": "不想看:冯巩",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:关晓彤",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "冯巩 关晓彤 搞笑",
+      "mediaId": "6502946939313586176",
+      "mediaName": "友友说",
+      "newsId": "6504320995585689601",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 711,
+          "url": "http://p.cdn.sohu.com/covers/089a1b13/c5e0ce4334c59bfffb346b1b52ea7a64.jpeg",
+          "width": 1274
+        }
+      ],
+      "playCount": 1241,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 1,
+      "score": 0.21706466974400954,
+      "state": 0,
+      "template": 9,
+      "title": "关晓彤爆笑演绎改编版冯巩小品！爆笑！！太逗了",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 3079902,
+              "url": "http://v.cdn.sohu.com/93/ae6e831c3c3bfb60bcb5f67a72fe3b1b/0"
+            },
+            {
+              "size": 1685626,
+              "url": "http://v.cdn.sohu.com/93/ae6e831c3c3bfb60bcb5f67a72fe3b1b/1"
+            }
+          ],
+          "duration": 35.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 3079902,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/93/ae6e831c3c3bfb60bcb5f67a72fe3b1b/0"
+        }
+      ],
+      "virtualTime": 1550821734388
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6504288220153382913",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 3,
+      "contentType": 3,
+      "createTime": 1550725313,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:元气团子",
+          "type": "media"
+        },
+        {
+          "name": "不想看:林志玲",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宋小宝",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "林志玲 宋小宝 搞笑",
+      "mediaId": "6495720969607315457",
+      "mediaName": "元气团子",
+      "newsId": "6504288220153382913",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/cdedd044/b8646d88be3ca4e52dc3cb97b77ea58e",
+          "width": 870
+        }
+      ],
+      "playCount": 9085,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 1,
+      "score": 0.21484902226839897,
+      "state": 0,
+      "template": 9,
+      "title": "太逗了，宋小宝和林志玲相亲，最萌身高差再度组合。",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 2349462,
+              "url": "http://v.cdn.sohu.com/0/f1de08d9302e29d8ddd06ea3396fdac1/0"
+            }
+          ],
+          "duration": 38.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 2349462,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/f1de08d9302e29d8ddd06ea3396fdac1/0"
+        }
+      ],
+      "virtualTime": 1550821730804
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6504258955554850817",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 3,
+      "contentType": 3,
+      "createTime": 1550723551,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:娱凯乐",
+          "type": "media"
+        },
+        {
+          "name": "不想看:钟馗",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:李白",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "钟馗 李白 搞笑",
+      "mediaId": "6502592549536923648",
+      "mediaName": "娱凯乐",
+      "newsId": "6504258955554850817",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/eee85694/92d1518a1d82bcfbca0ea1b0b2eee89e",
+          "width": 870
+        }
+      ],
+      "playCount": 18,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.10008729570794885,
+      "state": 0,
+      "template": 9,
+      "title": "王者荣耀方言搞笑动画：李白对战钟馗",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 11488971,
+              "url": "http://v.cdn.sohu.com/0/80ce561fc0cda969746dbf6fdd7b83bf/0"
+            }
+          ],
+          "duration": 117.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 11488971,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/80ce561fc0cda969746dbf6fdd7b83bf/0"
+        }
+      ],
+      "virtualTime": 1550821727220
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6504205668646389761",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 0,
+      "contentType": 3,
+      "createTime": 1550668359,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:农药小Q哥",
+          "type": "media"
+        },
+        {
+          "name": "不想看:张大仙",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:花木兰",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "张大仙 花木兰 搞笑",
+      "mediaId": "6427382941457842177",
+      "mediaName": "农药小Q哥",
+      "newsId": "6504205668646389761",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/eee85694/36d8dcbc3cb6a43e5522f16a22631ec0",
+          "width": 870
+        }
+      ],
+      "playCount": 94,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.0960131048277055,
+      "state": 0,
+      "template": 9,
+      "title": "王者荣耀搞笑：张大仙，花木兰那是顶呱呱的！",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 7762836,
+              "url": "http://v.cdn.sohu.com/0/a09c263bdab7528612cef4a929f8956c/0"
+            }
+          ],
+          "duration": 74.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 7762836,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/a09c263bdab7528612cef4a929f8956c/0"
+        }
+      ],
+      "virtualTime": 1550821723636
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6503848123348027393",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 1,
+      "contentType": 3,
+      "createTime": 1550589810,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:王者小曼酱",
+          "type": "media"
+        },
+        {
+          "name": "不想看:王者荣耀",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "王者荣耀 搞笑",
+      "mediaId": "6502734293817622529",
+      "mediaName": "王者小曼酱",
+      "newsId": "6503848123348027393",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/cdedd044/d1e1a3273577d3f4a21adf00027dc5b1",
+          "width": 870
+        }
+      ],
+      "playCount": 304,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.08830496353395338,
+      "state": 0,
+      "template": 9,
+      "title": "搞笑王者荣耀：排位伤害到达巅峰，对面以为我开挂？",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 5029620,
+              "url": "http://v.cdn.sohu.com/0/de12e8a7350a2fdc8372bec365857228/0"
+            }
+          ],
+          "duration": 36.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 5029620,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/de12e8a7350a2fdc8372bec365857228/0"
+        }
+      ],
+      "virtualTime": 1550821720052
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6503923228950398977",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 0,
+      "contentType": 3,
+      "createTime": 1550653791,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:恒哥电影说",
+          "type": "media"
+        },
+        {
+          "name": "不想看:刘仪伟",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宋丹丹",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "刘仪伟 宋丹丹 搞笑",
+      "mediaId": "6444970849106657281",
+      "mediaName": "恒哥电影说",
+      "newsId": "6503923228950398977",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/cdedd044/1f1c61aa1ea8c3fde7bd6f228ba798a5",
+          "width": 870
+        }
+      ],
+      "playCount": 227,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.07943481418837262,
+      "state": 0,
+      "template": 9,
+      "title": "刘仪伟现场吃辣椒，大声说道：一点都不辣！甜的！看把宋丹丹笑得",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 8467759,
+              "url": "http://v.cdn.sohu.com/0/323a473f833e55ab3a6d7bc2be77e6e9/0"
+            }
+          ],
+          "duration": 127.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 8467759,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/323a473f833e55ab3a6d7bc2be77e6e9/0"
+        }
+      ],
+      "virtualTime": 1550821716468
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6500674015785388033",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 4,
+      "contentType": 3,
+      "createTime": 1549880434,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:乳娃娃育儿屋",
+          "type": "media"
+        },
+        {
+          "name": "不想看:蛋糕",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:甜品",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "蛋糕 甜品 搞笑",
+      "mediaId": "6500023064456069120",
+      "mediaName": "乳娃娃育儿屋",
+      "newsId": "6500674015785388033",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 268,
+          "url": "http://p.cdn.sohu.com/cdedd044/77b08cf1e9e1a8b64d6dd121ebd11849",
+          "width": 480
+        }
+      ],
+      "playCount": 25824,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.07848277651508424,
+      "state": 0,
+      "template": 9,
+      "title": "宝宝第一次过生日吃蛋糕，这吃相看一次笑一次",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 1129925,
+              "url": "http://v.cdn.sohu.com/0/5f804522c52813af73a275ca2c80f0ab/0"
+            }
+          ],
+          "duration": 32.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 1129925,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/5f804522c52813af73a275ca2c80f0ab/0"
+        }
+      ],
+      "virtualTime": 1550821712884
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6502141408126699521",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 1,
+      "contentType": 3,
+      "createTime": 1550209957,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:周十八12",
+          "type": "media"
+        },
+        {
+          "name": "不想看:岳岳",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:羊肉串",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "岳岳 羊肉串 搞笑",
+      "mediaId": "6445449229627293697",
+      "mediaName": "周十八12",
+      "newsId": "6502141408126699521",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/cdedd044/7a6656879e3f8827701716288a3d86b3",
+          "width": 870
+        }
+      ],
+      "playCount": 1345,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.05997159203230547,
+      "state": 0,
+      "template": 9,
+      "title": "一分钱没给白吃40个羊肉串，小岳岳这一招太绝了",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 3405017,
+              "url": "http://v.cdn.sohu.com/0/bdefb321cfef9a1c3b59a62f1acca8b1/0"
+            }
+          ],
+          "duration": 47.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 3405017,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/bdefb321cfef9a1c3b59a62f1acca8b1/0"
+        }
+      ],
+      "virtualTime": 1550821709300
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6504154111041079296",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 0,
+      "contentType": 3,
+      "createTime": 1550609684,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:挽碎发果酱味",
+          "type": "media"
+        },
+        {
+          "name": "不想看:栾云平",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:蛇",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "栾云平 蛇 搞笑",
+      "mediaId": "6492844258645508097",
+      "mediaName": "挽碎发果酱味",
+      "newsId": "6504154111041079296",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/cdedd044/6f7b1260a723499c95225e4ce03d7a15",
+          "width": 870
+        }
+      ],
+      "playCount": 103,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.05303620442081045,
+      "state": 0,
+      "template": 9,
+      "title": "高峰：栾云平给他父亲泡蛇酒喝，喝完想把蛇吃了，结果尴尬了！",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 4432625,
+              "url": "http://v.cdn.sohu.com/0/33155658b2dd824b7069dde170ec0784/0"
+            }
+          ],
+          "duration": 134.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 4432625,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/33155658b2dd824b7069dde170ec0784/0"
+        }
+      ],
+      "virtualTime": 1550821705716
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6503096498476025857",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 0,
+      "contentType": 3,
+      "createTime": 1550445600,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:业余搬砖",
+          "type": "media"
+        },
+        {
+          "name": "不想看:黄河大合唱",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:动物",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:搞笑",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "黄河大合唱 动物 搞笑",
+      "mediaId": "6502421606462128129",
+      "mediaName": "业余搬砖",
+      "newsId": "6503096498476025857",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/cdedd044/c7096663153c2b4bf445496a51b51e6c",
+          "width": 870
+        }
+      ],
+      "playCount": 3348,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.05126226050228981,
+      "state": 0,
+      "template": 9,
+      "title": "国外恶搞：胸口突然窜出来一条眼镜蛇吓坏路人",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 5332111,
+              "url": "http://v.cdn.sohu.com/0/bfd6836f89a0b09a1dc6c3ee139e96d7/0"
+            }
+          ],
+          "duration": 65.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 5332111,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/bfd6836f89a0b09a1dc6c3ee139e96d7/0"
+        }
+      ],
+      "virtualTime": 1550821702132
+    }
+  ],
+  "channelId": 101,
+  "channelName": "推荐",
+  "city": "栖霞区",
+  "displayInfo": "",
+  "errorCode": 0,
+  "exts": "chan:o,home:N_T,rank:o,loadId:86064857f37c0,ins_Tag:T_D,homeRecall:model,EE:o,INeg:n,video:O_O",
+  "ip": "180.111.35.154",
+  "loadid": "86064857f37c0",
+  "loadtime": 1550713043879,
+  "message": "success",
+  "reqtype": 0,
+  "supplement": 1,
+  "totalNum": 10
+}

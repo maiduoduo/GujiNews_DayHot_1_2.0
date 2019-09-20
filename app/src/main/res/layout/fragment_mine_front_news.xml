@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:toolbar="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/emptyImg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@mipmap/empty_liked" />
+
+        <TextView
+            android:id="@+id/emptyText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/emptyImg"
+            android:layout_marginTop="5dp"
+            android:layout_centerInParent="true"
+            android:textStyle="bold"
+            android:textColor="@color/Gray1"
+            android:textSize="@dimen/sp_14"
+            android:text="还没有登录哦" />
+        <TextView
+            android:id="@+id/emptyTextDes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/emptyText"
+            android:layout_marginTop="5dp"
+            android:layout_centerInParent="true"
+            android:textColor="@color/Gray3"
+            android:textSize="@dimen/sp_11"
+            android:text="别站外边呀，来，进来看..." />
+
+        <Button
+            android:id="@+id/btnLoginin"
+            android:layout_width="wrap_content"
+            android:layout_height="28dp"
+            android:layout_below="@+id/emptyTextDes"
+            android:textColor="@color/Gray1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/shape_button_yellow"
+            android:textSize="@dimen/sp_13"
+            android:textStyle="bold"
+            android:text="登录" />
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>
+
+

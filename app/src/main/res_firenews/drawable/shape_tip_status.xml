@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 圆形边框 + 填充 -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval"
+    android:useLevel="true">
+
+    <size
+        android:width="70dp"
+        android:height="70dp" />
+    <solid android:color="#33000000" />
+
+</shape>

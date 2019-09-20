@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="3"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:gravity="center_vertical"
+    android:background="@color/white"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:padding="5dp"
+    android:orientation="horizontal">
+    <include layout="@layout/item_profile_top_bar_content_friend"/>
+    <include layout="@layout/item_profile_my_vertical_line"/>
+    <include layout="@layout/item_profile_top_bar_content_yxl"/>
+    <include layout="@layout/item_profile_my_vertical_line"/>
+    <include layout="@layout/item_profile_top_bar_content_fangk"/>
+</LinearLayout>

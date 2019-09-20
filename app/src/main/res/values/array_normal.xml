@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--横向分页九宫格-->
+    <string-array name="menu9_title">
+        <item>生活服务</item>
+        <item>学习培训</item>
+        <item>移动</item>
+        <item>家装</item>
+        <item>运动健身</item>
+        <item>今日新单</item>
+        <item>旅游</item>
+        <item>手机</item>
+        <item>汽车服务</item>
+        <item>社会</item>
+        <item>家居</item>
+        <item>暴雪</item>
+        <item>母婴亲子</item>
+        <item>CBA</item>
+        <item>全部分配</item>
+        <item>美食</item>
+        <item>电影</item>
+        <item>酒店住宿</item>
+        <item>休闲娱乐</item>
+        <item>外卖</item>
+        <item>KTV</item>
+        <item>机票/火车票</item>
+        <item>周边游</item>
+        <item>美甲美睫</item>
+        <item>火锅</item>
+        <item>生日蛋糕</item>
+        <item>婚纱摄影</item>
+        <item>学习培训</item>
+        <item>面膜</item>
+        <item>精选</item>
+        <item>头条</item>
+        <item>热点</item>
+        <item>时讯</item>
+        <item>现场连线</item>
+        <item>联系客服</item>
+        <item>潮品预售</item>
+        <item>我的团购</item>
+        <item>我的收藏</item>
+        <item>随手送礼</item>
+        <item>我的兑换</item>
+        <item>我的关注</item>
+        <item>时事联盟</item>
+        <item>我的捐赠</item>
+        <item>商务合作</item>
+    </string-array>
+
+    <string-array name="splash_gif">
+        <item>https://img2.epetbar.com/nowater/2019-02/18/21/eae4d5ed4c0ef7a6d2d9e4f7536385bf.gif</item>
+    </string-array>
+
+
+    <!--任务待办Title-->
+    <string-array name="risk_importtant_tab_title">
+        <item>重点问题</item>
+        <item>季度风险</item>
+    </string-array>
+
+</resources>

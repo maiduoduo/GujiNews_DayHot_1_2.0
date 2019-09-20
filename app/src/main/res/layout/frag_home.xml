@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <!--<View
+        android:id="@+id/fake_status_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/statusbar_view_height"
+        android:background="@color/colorPrimary" />-->
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fitsSystemWindows="true"
+            android:paddingTop="20dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <!--app:tabSelectedTextColor="@android:color/holo_orange_light"
+                app:tabTextColor="@color/white"-->
+            <android.support.design.widget.TabLayout
+                android:id="@+id/tablayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/transparent"
+                app:elevation="0dp"
+                app:tabGravity="center"
+                app:tabIndicatorHeight="0dp"
+                app:tabMaxWidth="200dp"
+                app:tabMinWidth="20dp"
+                app:tabMode="scrollable"
+                app:tabPaddingEnd="5dp"
+                app:tabPaddingStart="5dp" />
+
+            <ImageView
+                android:id="@+id/ibnAddChannel"
+                android:layout_width="25dp"
+                android:layout_height="20dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:background="@color/lightwhite"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/ic_channel_add_light_25px" />
+        </LinearLayout>
+    </FrameLayout>
+    <!--   <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="vertical">
+           <View
+               android:id="@+id/fake_status_bar"
+               android:layout_width="match_parent"
+               android:layout_height="@dimen/statusbar_view_height"
+               android:background="@color/transparent"/>
+           <android.support.design.widget.TabLayout
+               android:id="@+id/tablayout"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:background="@color/transparent"/>
+       </LinearLayout>-->
+</LinearLayout>
+
+

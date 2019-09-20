@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">咕唧新闻</string>
+    <string name="net_error">网络访问错误，请稍后再试</string>
+    <string name="empty">还没有数据哦</string>
+    <string name="reload">重新尝试</string>
+    <string name="no_net">网络不可用,请检查你的网络</string>
+    <string name="news">云闻</string>
+    <string name="load_end">没有更多数据</string>
+    <string name="load_failed">加载失败，请点我重试</string>
+    <string name="loading">正在加载中...</string>
+
+    <!-- 新闻频道 -->
+    <string name="channel_explain">点击可增删/长按并拖拽可排序</string>
+    <string name="my_channel">我的频道</string>
+    <string name="my_channel_des">点击移除频道 长按可拖动排序</string>
+    <string name="more_channel">更多频道</string>
+    <string name="more_channel_des">点击添加至我的频道</string>
+    <string name="channel_manage">频道管理</string>
+    <string name="channel_clear">初始化</string>
+
+    <!--behavior-->
+    <string name="behavior_main_header">com.cnews.guji.smart.helper.behavior.mainpage.MainHeaderBehavior</string>
+    <string name="behavior_xiami_comment">com.cnews.guji.smart.helper.behavior.XiamiCommentBehavior</string>
+    <string name="behavior_xiami_title">com.cnews.guji.smart.helper.behavior.XiamiTitleBehavior</string>
+    <!--要闻-->
+    <string name="txt_type0">要闻</string>
+    <string name="txt_type1">我的要闻</string>
+    <!--视频段子-->
+    <string name="txt_type2">推荐</string>
+    <string name="txt_type3">搞笑</string>
+    <string name="txt_type4">萌宠</string>
+    <string name="txt_type5">美食</string>
+    <string name="txt_type6">军事</string>
+    <string name="txt_type7">音乐</string>
+    <string name="txt_type8">娱乐</string>
+    <string name="txt_type9">育儿</string>
+    <string name="txt_type10">影视</string>
+    <string name="txt_type11">科技</string>
+    <string name="txt_type12">小品</string>
+    <string name="txt_type13">舞蹈</string>
+
+
+    <string name="refreshing">正在刷新</string>
+    <string name="brvah_foots_loading">正在刷新</string>
+    <string name="app_splash_name">咕唧新闻资讯平台  v1.2.0</string>
+    <string name="app_copyright">Copyright © 2018 GUJINEWS DEVELOPER by Mr.Ding All Rights Reserved.</string>
+    <string name="tip_text">咕唧新闻%s专区为您精选%d条内容</string>
+</resources>

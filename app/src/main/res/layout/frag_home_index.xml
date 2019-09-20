@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:cube_ptr="http://schemas.android.com/apk/res-auto"
+    xmlns:toolbar="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <com.aspsine.swipetoloadlayout.SwipeToLoadLayout
+        android:id="@+id/swipeToLoadLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <include
+            android:id="@+id/swipe_refresh_header"
+            layout="@layout/layout_mtwm_header"/>
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/swipe_target"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="vertical"
+            android:clipToPadding="false" />
+    </com.aspsine.swipetoloadlayout.SwipeToLoadLayout>
+
+
+    <LinearLayout
+        android:id="@+id/topbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fitsSystemWindows="true"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tl_tabs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            app:elevation="0dp" />
+        <TextView
+            android:id="@+id/view2"
+            android:layout_width="match_parent"
+            android:layout_height="15dp"
+            android:visibility="gone" />
+        <com.cnews.guji.smart.view.widget.TipView
+            android:id="@+id/tipView"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            app:tipBackgroundColor="@color/material_lightBlue_200"
+            app:tipText="为您推荐精选视频%s条内容"
+            app:tipTextColor="@color/material_lightBlue_800"
+            app:tipTextSize="11sp">
+        </com.cnews.guji.smart.view.widget.TipView>
+    </LinearLayout>
+    <ImageButton
+        android:id="@+id/fbToTop"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="@dimen/dp_10"
+        android:layout_marginRight="@dimen/dp_10"
+        android:background="@drawable/icon_totop"/>
+</RelativeLayout>
+
+

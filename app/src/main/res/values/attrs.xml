@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--昼夜模式主色调-->
+    <attr name="dayNightBackground" format="color|reference" />
+    <attr name="dayNightOneTextColor" format="color|reference" />
+    <attr name="dayNightTwoTextColor" format="color|reference" />
+    <attr name="dayNightThreeTextColor" format="color|reference" />
+    <attr name="dayNightBackgroundDrawable" format="color|reference" />
+
+    <declare-styleable name="DayNightMode">
+        <attr name="dayNightBackgroundAttr" format="string|reference" /><!--切换背景属性-->
+        <attr name="dayNightOneTextColorAttr" format="string|reference" /><!--切换一级字体颜色属性-->
+        <attr name="dayNightTwoTextColorAttr" format="string|reference" /><!--切换二级字体颜色属性-->
+        <attr name="dayNightThreeTextColorAttr" format="string|reference" /><!--切换三级字体颜色属性-->
+        <attr name="dayNightBackgroundDrawableAttr" format="string|reference" /><!--切换背景图片属性-->
+    </declare-styleable>
+
+    <!--自定义圆角ImageView-->
+    <declare-styleable name="Custom_Round_Image_View">
+        <attr name="radius" format="dimension" />
+        <attr name="left_top_radius" format="dimension" />
+        <attr name="right_top_radius" format="dimension" />
+        <attr name="right_bottom_radius" format="dimension" />
+        <attr name="left_bottom_radius" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="ShapesImage">
+        <attr name="shapeDrawable" format="reference" />
+        <attr name="shape" format="enum">
+            <enum name="custom" value="0"/>
+            <enum name="circle" value="1"/>
+            <enum name="rounded" value="2"/>
+            <enum name="bowl" value="3"/>
+            <enum name="triangle" value="4"/>
+            <enum name="cross" value="5"/>
+            <enum name="ellipse" value="6"/>
+            <enum name="beaker" value="7"/>
+            <enum name="heart" value="8"/>
+            <enum name="xbox" value="9"/>
+            <enum name="water_drop" value="10"/>
+            <enum name="video" value="11"/>
+            <enum name="twitter_bird" value="12"/>
+            <enum name="trophy" value="13"/>
+            <enum name="tree" value="14"/>
+            <enum name="tooltip" value="15"/>
+            <enum name="tie" value="16"/>
+            <enum name="thumb_up" value="17"/>
+            <enum name="thumb_down" value="18"/>
+            <enum name="tennis_ball" value="19"/>
+            <enum name="tag" value="20"/>
+            <enum name="snowman" value="21"/>
+            <enum name="sheild" value="22"/>
+            <enum name="shopping_bag" value="23"/>
+            <enum name="puzzle" value="24"/>
+            <enum name="octagon" value="25"/>
+            <enum name="message" value="26"/>
+            <enum name="message_reply" value="27"/>
+            <enum name="lock" value="28"/>
+            <enum name="light_bulb" value="29"/>
+            <enum name="leaf" value="30"/>
+            <enum name="label" value="31"/>
+            <enum name="heart_broken" value="32"/>
+            <enum name="hexagon" value="33"/>
+            <enum name="guitar_pick" value="34"/>
+            <enum name="ghost" value="35"/>
+            <enum name="apple" value="36"/>
+            <enum name="folder" value="37"/>
+            <enum name="messenger" value="38"/>
+            <enum name="duck" value="39"/>
+            <enum name="delete" value="40"/>
+            <enum name="coffee_mug" value="41"/>
+            <enum name="cloud" value="42"/>
+            <enum name="bookmark" value="43"/>
+            <enum name="bell" value="44"/>
+            <enum name="battery" value="45"/>
+            <enum name="apple_logo" value="46"/>
+            <enum name="android" value="47"/>
+        </attr>
+    </declare-styleable>
+
+    <!--自定义ImageView遮罩层-->
+    <declare-styleable name="Custom_Round_Image_View22">
+        <attr name="shadow_color" format="color|reference" />
+        <attr name="hasshadow" format="dimension" />
+    </declare-styleable>
+
+    <!--闪屏页倒计时View-->
+    <declare-styleable name="CountDownView">
+        <!--view半径-->
+        <attr name="cd_circle_radius" format="dimension" />
+        <!--画笔宽度-->
+        <attr name="cd_arc_width" format="dimension" />
+        <!--画笔颜色-->
+        <attr name="cd_arc_color" format="color" />
+        <!--背景颜色-->
+        <attr name="cd_bg_color" format="color" />
+        <!--字体颜色-->
+        <attr name="cd_text_color" format="color" />
+        <!--字体尺寸-->
+        <attr name="cd_text_size" format="dimension" />
+        <!--动画执行时长-->
+        <attr name="cd_animator_time" format="integer" />
+        <!--时间单位-->
+        <attr name="cd_animator_time_unit" format="string" />
+        <!--动画进退方式-->
+        <attr name="cd_retreat_type" format="enum">
+            <!--外层的圆弧逐渐变长-->
+            <enum name="forward" value="1" />
+            <!--外层的圆弧逐渐减短-->
+            <enum name="back" value="2" />
+        </attr>
+        <!--加载进度的开始位置-->
+        <attr name="cd_location" format="enum">
+            <enum name="left" value="1" />
+            <enum name="top" value="2" />
+            <enum name="right" value="3" />
+            <enum name="bottom" value="4" />
+        </attr>
+    </declare-styleable>
+
+    //up down viewSwitcher================
+    <declare-styleable name="UpDownViewSwitcher">
+        <attr name="up_to_down" format="boolean" />
+        <attr name="animator_duration" format="integer" />
+        <attr name="switch_duration" format="integer" />
+        <attr name="animator_translate_distance" format="dimension" />
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,1003 @@
+{
+    "adcode": "320100",
+    "ads": "A",
+    "adsType": 1,
+    "articles": [
+        {
+            "articleUrl": "http://c.cdn.sohu.com/article/6495455307358013440",
+            "category": {
+                "id": 100,
+                "name": "其他"
+            },
+            "commentNum": 0,
+            "contentType": 1,
+            "createTime": 1548633928,
+            "filterWords": [
+                {
+                    "name": "屏蔽来源:新华网",
+                    "type": "media"
+                },
+                {
+                    "name": "不想看:李洙墉",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不想看:艺术",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不想看:外交",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不感兴趣",
+                    "type": "unlike"
+                }
+            ],
+            "isRec": 1,
+            "isTop": 0,
+            "keyword": "李洙墉 艺术 外交",
+            "mediaId": "6183527926416277524",
+            "mediaName": "新华网",
+            "newsId": "6495455307358013440",
+            "picNum": 3,
+            "pics": [],
+            "playCount": 0,
+            "recommendEvent": 6,
+            "recpool": 1,
+            "recreason": 0,
+            "score": 1.0,
+            "state": 0,
+            "template": 4,
+            "title": "习近平和彭丽媛会见李洙墉并观看朝鲜艺术团演出",
+            "virtualTime": 1548661410276
+        },
+        {
+            "articleUrl": "http://c.cdn.sohu.com/article/6495555504033497089",
+            "category": {
+                "id": 100,
+                "name": "其他"
+            },
+            "commentNum": 0,
+            "contentType": 1,
+            "createTime": 1548661106,
+            "filterWords": [
+                {
+                    "name": "屏蔽来源:新京报",
+                    "type": "media"
+                },
+                {
+                    "name": "不想看:游戏",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不想看:财经",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不感兴趣",
+                    "type": "unlike"
+                }
+            ],
+            "isRec": 0,
+            "isTop": 0,
+            "keyword": "游戏 财经",
+            "mediaId": "6183527930396672073",
+            "mediaName": "新京报",
+            "newsId": "6495555504033497089",
+            "picNum": 0,
+            "pics": [],
+            "playCount": 0,
+            "recommendEvent": 8,
+            "recpool": 0,
+            "recreason": 0,
+            "score": -0.013672903180122375,
+            "state": 0,
+            "template": 4,
+            "title": "三部门：调整高频快开彩票游戏和竞猜彩票游戏规则",
+            "virtualTime": 1548661409863
+        },
+        {
+            "category": {
+                "id": 100,
+                "name": "其他"
+            },
+            "commentNum": 0,
+            "contentType": 100002,
+            "createTime": 1548659422,
+            "filterWords": [
+                {
+                    "name": "不感兴趣",
+                    "type": "unlike"
+                }
+            ],
+            "hotSpecialNews": [
+                {
+                    "articleUrl": "http://c.cdn.sohu.com/article/6494520561673176064",
+                    "category": {
+                        "id": 100,
+                        "name": "其他"
+                    },
+                    "commentNum": 212,
+                    "contentType": 1,
+                    "createTime": 1548414457,
+                    "filterWords": [
+                        {
+                            "name": "屏蔽来源:搜狐资讯",
+                            "type": "media"
+                        },
+                        {
+                            "name": "不想看:小年",
+                            "type": "keyword"
+                        },
+                        {
+                            "name": "不感兴趣",
+                            "type": "unlike"
+                        }
+                    ],
+                    "flag": {
+                        "bgColor": "",
+                        "borderColor": "#FF6530",
+                        "fillBgColor": "#FA5332",
+                        "fontColor": "#FF6530",
+                        "icon": "",
+                        "text": "精选",
+                        "type": 3
+                    },
+                    "isRec": 0,
+                    "isTop": 0,
+                    "keyword": "小年",
+                    "mediaId": "6405619535205892096",
+                    "mediaName": "搜狐资讯",
+                    "mediaUrl": "http://p.cdn.sohu.com/img_default_source_28x28_iphone6.png",
+                    "newsId": "6494520561673176064",
+                    "picNum": 2,
+                    "pics": [
+                        {
+                            "height": 360,
+                            "url": "http://p.cdn.sohu.com/570d99e4/bdbf91e0200a86fbd4b05b2c4e3ba871.jpeg",
+                            "width": 640
+                        }
+                    ],
+                    "playCount": 0,
+                    "recommendEvent": 0,
+                    "score": 0.0,
+                    "state": 0,
+                    "template": 2,
+                    "title": "从小年开始，带你寻找消失的年味"
+                },
+                {
+                    "articleUrl": "http://c.cdn.sohu.com/article/6495487015579027457",
+                    "category": {
+                        "id": 100,
+                        "name": "其他"
+                    },
+                    "commentNum": 14,
+                    "contentType": 1,
+                    "createTime": 1548644705,
+                    "filterWords": [
+                        {
+                            "name": "屏蔽来源:半岛网",
+                            "type": "media"
+                        },
+                        {
+                            "name": "不想看:正当防卫",
+                            "type": "keyword"
+                        },
+                        {
+                            "name": "不想看:犯罪",
+                            "type": "keyword"
+                        },
+                        {
+                            "name": "不想看:政法",
+                            "type": "keyword"
+                        },
+                        {
+                            "name": "不感兴趣",
+                            "type": "unlike"
+                        }
+                    ],
+                    "isRec": 0,
+                    "isTop": 0,
+                    "keyword": "正当防卫 犯罪 政法",
+                    "mediaId": "6194022858335715328",
+                    "mediaName": "半岛网",
+                    "mediaUrl": "http://i3.itc.cn/20100920/96b_2991ffdb_ccad_4126_b9a3_d547680272d4_0.jpg",
+                    "newsId": "6495487015579027457",
+                    "picNum": 0,
+                    "pics": [
+                        {
+                            "height": 360,
+                            "url": "http://p.cdn.sohu.com/570d99e4/fe440aa2967c28cb5c786b7f5d635817.jpeg",
+                            "width": 640
+                        }
+                    ],
+                    "playCount": 0,
+                    "recommendEvent": 0,
+                    "score": 0.0,
+                    "state": 0,
+                    "template": 2,
+                    "title": "合肥男子为护母与人斗殴，检察院认定其属正当防卫不构成犯罪"
+                },
+                {
+                    "articleUrl": "http://c.cdn.sohu.com/article/6495490422951905280",
+                    "category": {
+                        "id": 100,
+                        "name": "其他"
+                    },
+                    "commentNum": 0,
+                    "contentType": 1,
+                    "createTime": 1548645381,
+                    "filterWords": [
+                        {
+                            "name": "屏蔽来源:人民日报",
+                            "type": "media"
+                        },
+                        {
+                            "name": "不想看:大学",
+                            "type": "keyword"
+                        },
+                        {
+                            "name": "不想看:北京",
+                            "type": "keyword"
+                        },
+                        {
+                            "name": "不感兴趣",
+                            "type": "unlike"
+                        }
+                    ],
+                    "isRec": 0,
+                    "isTop": 0,
+                    "keyword": "大学 北京",
+                    "mediaId": "6183528433457299479",
+                    "mediaName": "人民日报",
+                    "mediaUrl": "http://p.cdn.sohu.com/img_default_source_28x28_iphone6.png",
+                    "newsId": "6495490422951905280",
+                    "picNum": 4,
+                    "pics": [
+                        {
+                            "height": 360,
+                            "url": "http://p.cdn.sohu.com/570d99e4/f864c2c3708f0088b44db78828944062.jpeg",
+                            "width": 640
+                        }
+                    ],
+                    "playCount": 0,
+                    "recommendEvent": 0,
+                    "score": 0.0,
+                    "state": 0,
+                    "template": 2,
+                    "title": "名校毕业生都去哪了？快看看这些“双一流”高校的情况"
+                },
+                {
+                    "articleUrl": "http://c.cdn.sohu.com/article/6495538962369611777",
+                    "category": {
+                        "id": 100,
+                        "name": "其他"
+                    },
+                    "commentNum": 0,
+                    "contentType": 1,
+                    "createTime": 1548657106,
+                    "filterWords": [
+                        {
+                            "name": "屏蔽来源:人民网",
+                            "type": "media"
+                        },
+                        {
+                            "name": "不想看:抗日战争",
+                            "type": "keyword"
+                        },
+                        {
+                            "name": "不想看:地球",
+                            "type": "keyword"
+                        },
+                        {
+                            "name": "不想看:科学",
+                            "type": "keyword"
+                        },
+                        {
+                            "name": "不感兴趣",
+                            "type": "unlike"
+                        }
+                    ],
+                    "isRec": 0,
+                    "isTop": 0,
+                    "keyword": "抗日战争 地球 科学",
+                    "mediaId": "6183527926416277506",
+                    "mediaName": "人民网",
+                    "mediaUrl": "http://p.cdn.sohu.com/img_default_source_28x28_iphone6.png",
+                    "newsId": "6495538962369611777",
+                    "picNum": 8,
+                    "pics": [
+                        {
+                            "height": 360,
+                            "url": "http://p.cdn.sohu.com/570d99e4/182acee0e24da0c7a1384e36c523a00c.jpeg",
+                            "width": 640
+                        }
+                    ],
+                    "playCount": 0,
+                    "recommendEvent": 0,
+                    "score": 0.0,
+                    "state": 0,
+                    "template": 2,
+                    "title": "“深海勇士”在“魔鬼西风带”捞上来了一株稀世珍宝"
+                }
+            ],
+            "isRec": 1,
+            "isTop": 0,
+            "keyword": "",
+            "newsId": "6474922954428777472",
+            "picNum": 0,
+            "pics": [
+                {
+                    "height": 108,
+                    "url": "http://p.cdn.sohu.com/570d99e4/9439c2c2a1d12d0224c421fc9c0713b6.png",
+                    "width": 372
+                }
+            ],
+            "playCount": 0,
+            "recommendEvent": 13,
+            "recpool": 0,
+            "recreason": 5,
+            "score": 100.0,
+            "state": 0,
+            "template": 12,
+            "title": "热闻精选",
+            "virtualTime": 1548661409450
+        },
+        {
+            "articleUrl": "http://c.cdn.sohu.com/article/6495449643051122693",
+            "category": {
+                "id": 100,
+                "name": "其他"
+            },
+            "commentNum": 7,
+            "contentType": 1,
+            "createTime": 1548635607,
+            "filterWords": [
+                {
+                    "name": "屏蔽来源:平相居士",
+                    "type": "media"
+                },
+                {
+                    "name": "不想看:命理",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不想看:生肖",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不想看:星座",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不感兴趣",
+                    "type": "unlike"
+                }
+            ],
+            "isRec": 0,
+            "isTop": 0,
+            "keyword": "命理 生肖 星座",
+            "mediaId": "6488929711127789568",
+            "mediaName": "平相居士",
+            "newsId": "6495449643051122693",
+            "picNum": 3,
+            "pics": [
+                {
+                    "height": 453,
+                    "url": "http://p.cdn.sohu.com/covers/images/20190128/2047a882f4074e7b94e30c010501c256.jpeg",
+                    "width": 640
+                },
+                {
+                    "height": 418,
+                    "url": "http://p.cdn.sohu.com/covers/images/20190128/bb99798f382045cd972b2cc29d57c16c.jpeg",
+                    "width": 590
+                },
+                {
+                    "height": 400,
+                    "url": "http://p.cdn.sohu.com/images/20190128/c6ddaddb6f84424d81852091855d98c4.jpeg",
+                    "width": 400
+                }
+            ],
+            "playCount": 0,
+            "recommendEvent": 0,
+            "recpool": 0,
+            "recreason": 1,
+            "score": 0.0359937846660614,
+            "state": 0,
+            "template": 3,
+            "title": "平相居士：公历2019年1月28日，星期一，老黄历分享",
+            "virtualTime": 1548661409037
+        },
+        {
+            "articleUrl": "http://c.cdn.sohu.com/article/6494413756133541888",
+            "category": {
+                "id": 100,
+                "name": "其他"
+            },
+            "commentNum": 0,
+            "contentType": 3,
+            "createTime": 1548047658,
+            "filterWords": [
+                {
+                    "name": "屏蔽来源:军戈洛",
+                    "type": "media"
+                },
+                {
+                    "name": "不想看:象棋",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不想看:棋牌",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不想看:体育",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不感兴趣",
+                    "type": "unlike"
+                }
+            ],
+            "isRec": 0,
+            "isTop": 0,
+            "keyword": "象棋 棋牌 体育",
+            "mediaId": "6486038165000814593",
+            "mediaName": "军戈洛",
+            "newsId": "6494413756133541888",
+            "picNum": 0,
+            "pics": [
+                {
+                    "height": 358,
+                    "url": "http://p.cdn.sohu.com/cdedd044/030877dc5a6ba4fe57953fbb739f14e2",
+                    "width": 640
+                }
+            ],
+            "playCount": 22,
+            "recommendEvent": 0,
+            "recpool": 0,
+            "recreason": 1,
+            "score": 0.028863631188869476,
+            "state": 0,
+            "template": 2,
+            "title": "象棋；经典陷阱速胜布局，自投罗网之将计就计布罗网",
+            "videos": [
+                {
+                    "definitionInfos": [
+                        {
+                            "size": 2542621,
+                            "url": "http://v.cdn.sohu.com/0/8d05a699b8702f352d349a3fb8c0468b/0"
+                        }
+                    ],
+                    "duration": 134.0,
+                    "hd_id": 0,
+                    "rate": "0",
+                    "size": 2542621,
+                    "type": 0,
+                    "url": "http://v.cdn.sohu.com/0/8d05a699b8702f352d349a3fb8c0468b/0"
+                }
+            ],
+            "virtualTime": 1548661408624
+        },
+        {
+            "articleUrl": "http://c.cdn.sohu.com/article/6495321249462353920",
+            "category": {
+                "id": 100,
+                "name": "其他"
+            },
+            "commentNum": 2,
+            "contentType": 1,
+            "createTime": 1548605231,
+            "filterWords": [
+                {
+                    "name": "屏蔽来源:悠悠千古事",
+                    "type": "media"
+                },
+                {
+                    "name": "不想看:孙武",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不想看:司马迁",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不想看:中国历史",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不感兴趣",
+                    "type": "unlike"
+                }
+            ],
+            "isRec": 0,
+            "isTop": 0,
+            "keyword": "孙武 司马迁 中国历史",
+            "mediaId": "6279242325642182657",
+            "mediaName": "悠悠千古事",
+            "newsId": "6495321249462353920",
+            "picNum": 3,
+            "pics": [
+                {
+                    "height": 283,
+                    "url": "http://p.cdn.sohu.com/images/20190128/a206e2cb5a07408fb2f095926c88b753.jpeg",
+                    "width": 428
+                },
+                {
+                    "height": 262,
+                    "url": "http://p.cdn.sohu.com/images/20190128/0dd70bfb1c2247e4ae7cdd3bd11c7e71.jpeg",
+                    "width": 640
+                },
+                {
+                    "height": 290,
+                    "url": "http://p.cdn.sohu.com/images/20190128/2ed52ffc648244a09b700f9cb337435b.jpeg",
+                    "width": 386
+                }
+            ],
+            "playCount": 0,
+            "recommendEvent": 0,
+            "recpool": 0,
+            "recreason": 1,
+            "score": 0.011470295488834381,
+            "state": 0,
+            "template": 3,
+            "title": "孙武帮吴国成就霸业，司马迁一句话带过，另一件事却写了几百字",
+            "virtualTime": 1548661408211
+        },
+        {
+            "articleUrl": "http://c.cdn.sohu.com/article/6495147070372972544",
+            "category": {
+                "id": 100,
+                "name": "其他"
+            },
+            "commentNum": 0,
+            "contentType": 3,
+            "createTime": 1548560443,
+            "filterWords": [
+                {
+                    "name": "屏蔽来源:雪碧少喝因为雪碧透心",
+                    "type": "media"
+                },
+                {
+                    "name": "不想看:结婚",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不想看:婚礼",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不想看:电影",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不感兴趣",
+                    "type": "unlike"
+                }
+            ],
+            "isRec": 0,
+            "isTop": 0,
+            "keyword": "结婚 婚礼 电影",
+            "mediaId": "6476706516387758080",
+            "mediaName": "雪碧少喝因为雪碧透心",
+            "newsId": "6495147070372972544",
+            "picNum": 0,
+            "pics": [
+                {
+                    "height": 486,
+                    "url": "http://p.cdn.sohu.com/eee85694/7be9275291b1b11d5efa03d290cd755f",
+                    "width": 870
+                }
+            ],
+            "playCount": 2204,
+            "recommendEvent": 0,
+            "recpool": 0,
+            "recreason": 1,
+            "score": 0.02196473628282547,
+            "state": 0,
+            "template": 2,
+            "title": "结婚当天，新郎不结婚了，丈母娘大发脾气",
+            "videos": [
+                {
+                    "definitionInfos": [
+                        {
+                            "size": 3872090,
+                            "url": "http://v.cdn.sohu.com/0/83a6559ace35e583db41fdfb33615ebe/0"
+                        }
+                    ],
+                    "duration": 69.0,
+                    "hd_id": 0,
+                    "rate": "0",
+                    "size": 3872090,
+                    "type": 0,
+                    "url": "http://v.cdn.sohu.com/0/83a6559ace35e583db41fdfb33615ebe/0"
+                }
+            ],
+            "virtualTime": 1548661407798
+        },
+        {
+            "articleUrl": "http://c.cdn.sohu.com/article/6495495495740295168",
+            "category": {
+                "id": 100,
+                "name": "其他"
+            },
+            "commentNum": 10,
+            "contentType": 1,
+            "createTime": 1548646672,
+            "filterWords": [
+                {
+                    "name": "屏蔽来源:体育夹生饭",
+                    "type": "media"
+                },
+                {
+                    "name": "不想看:NBA",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不想看:圣安东尼奥马刺",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不想看:篮球",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不感兴趣",
+                    "type": "unlike"
+                }
+            ],
+            "isRec": 1,
+            "isTop": 0,
+            "keyword": "NBA 圣安东尼奥马刺 篮球",
+            "mediaId": "6189476093636902923",
+            "mediaName": "体育夹生饭",
+            "newsId": "6495495495740295168",
+            "picNum": 4,
+            "pics": [
+                {
+                    "height": 435,
+                    "url": "https://p.cdn.sohu.com/large/pgc-image/2b53eab98a7b404b9b588b6b84962f36",
+                    "width": 555
+                },
+                {
+                    "height": 424,
+                    "url": "https://p.cdn.sohu.com/large/pgc-image/f5e5589c0fb4423f958decb21acb61d3",
+                    "width": 544
+                },
+                {
+                    "height": 439,
+                    "url": "https://p.cdn.sohu.com/large/pgc-image/bd880d7a1d2f4facbf4eb5622cfe07ae",
+                    "width": 585
+                }
+            ],
+            "playCount": 0,
+            "recommendEvent": 0,
+            "recpool": 0,
+            "recreason": 2,
+            "score": 0.28301082697377156,
+            "state": 0,
+            "template": 3,
+            "title": "最新西部排行：火箭逆转魔术，雷霆力克东部第1，马刺力压爵士",
+            "virtualTime": 1548661407385
+        },
+        {
+            "articleUrl": "http://c.cdn.sohu.com/article/6495320185816221696",
+            "category": {
+                "id": 100,
+                "name": "其他"
+            },
+            "commentNum": 0,
+            "contentType": 1,
+            "createTime": 1548603900,
+            "filterWords": [
+                {
+                    "name": "屏蔽来源:小知识库",
+                    "type": "media"
+                },
+                {
+                    "name": "不想看:生物技术",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不感兴趣",
+                    "type": "unlike"
+                }
+            ],
+            "isRec": 0,
+            "isTop": 0,
+            "keyword": "生物技术",
+            "mediaId": "6243916407621287937",
+            "mediaName": "小知识库",
+            "newsId": "6495320185816221696",
+            "picNum": 4,
+            "pics": [
+                {
+                    "height": 275,
+                    "url": "http://p.cdn.sohu.com/723cf2ea/3612570e811331c6fb0410aee4faf760.jpeg",
+                    "width": 554
+                },
+                {
+                    "height": 308,
+                    "url": "http://p.cdn.sohu.com/723cf2ea/74d9e1dc06423a251c973e1eade029f8.jpeg",
+                    "width": 554
+                },
+                {
+                    "height": 332,
+                    "url": "http://p.cdn.sohu.com/723cf2ea/8d6c716afcd2d79aca8818e5f31d09fd.jpeg",
+                    "width": 554
+                }
+            ],
+            "playCount": 0,
+            "recommendEvent": 0,
+            "recpool": 0,
+            "recreason": 1,
+            "score": 0.04055064544081688,
+            "state": 0,
+            "template": 3,
+            "title": "我国成功培育出“变种”克隆猴，它能帮人类解决很多问题",
+            "virtualTime": 1548661406972
+        },
+        {
+            "articleUrl": "http://c.cdn.sohu.com/article/6495287168603258885",
+            "category": {
+                "id": 100,
+                "name": "其他"
+            },
+            "commentNum": 1,
+            "contentType": 1,
+            "createTime": 1548596206,
+            "filterWords": [
+                {
+                    "name": "屏蔽来源:LuYuhui",
+                    "type": "media"
+                },
+                {
+                    "name": "不想看:九三学社",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不想看:政治监督",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不感兴趣",
+                    "type": "unlike"
+                }
+            ],
+            "isRec": 0,
+            "isTop": 0,
+            "keyword": "九三学社 政治监督",
+            "mediaId": "6476369559908515842",
+            "mediaName": "LuYuhui",
+            "newsId": "6495287168603258885",
+            "picNum": 6,
+            "pics": [
+                {
+                    "height": 1080,
+                    "url": "http://p.cdn.sohu.com/images/20190127/3477489634a847709e65e78e22bcb873.png",
+                    "width": 1440
+                },
+                {
+                    "height": 765,
+                    "url": "http://p.cdn.sohu.com/covers/images/20190127/3f8bb753778e4a4fa2220cde9def2287.jpeg",
+                    "width": 1080
+                },
+                {
+                    "height": 765,
+                    "url": "http://p.cdn.sohu.com/covers/images/20190127/acf7cc9a16a147fa9777b391b1637982.jpeg",
+                    "width": 1080
+                }
+            ],
+            "playCount": 0,
+            "recommendEvent": 0,
+            "recpool": 0,
+            "recreason": 1,
+            "score": 0.03835752606391907,
+            "state": 0,
+            "template": 3,
+            "title": "省直三支社召开2019年新春组织生活会",
+            "virtualTime": 1548661406559
+        },
+        {
+            "articleUrl": "http://c.cdn.sohu.com/article/6495207457218887683",
+            "category": {
+                "id": 100,
+                "name": "其他"
+            },
+            "commentNum": 3,
+            "contentType": 1,
+            "createTime": 1548577265,
+            "filterWords": [
+                {
+                    "name": "屏蔽来源:早班汽车",
+                    "type": "media"
+                },
+                {
+                    "name": "不想看:宝骏510",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不想看:宝骏汽车",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不想看:国产汽车",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不感兴趣",
+                    "type": "unlike"
+                }
+            ],
+            "isRec": 0,
+            "isTop": 0,
+            "keyword": "宝骏510 宝骏汽车 国产汽车",
+            "mediaId": "6439236760839913472",
+            "mediaName": "早班汽车",
+            "newsId": "6495207457218887683",
+            "picNum": 10,
+            "pics": [
+                {
+                    "height": 873,
+                    "url": "http://p.cdn.sohu.com/images/20190127/24282b7d8b8a43bdaf0d82cfed7ff2be.png",
+                    "width": 1268
+                },
+                {
+                    "height": 868,
+                    "url": "http://p.cdn.sohu.com/images/20190127/37accb1cb0df45f49044f0966a861e2c.png",
+                    "width": 1273
+                },
+                {
+                    "height": 871,
+                    "url": "http://p.cdn.sohu.com/images/20190127/bdb75112cc8342f096730d44d77c59f7.png",
+                    "width": 1270
+                }
+            ],
+            "playCount": 0,
+            "recommendEvent": 0,
+            "recpool": 0,
+            "recreason": 1,
+            "score": 0.03791816160082817,
+            "state": 0,
+            "template": 3,
+            "title": "上市被看作“黑马”！配CVT+6AT胜过宝骏510，现仅7万却被忽视",
+            "virtualTime": 1548661406146
+        },
+        {
+            "articleUrl": "http://c.cdn.sohu.com/article/6494934840914216961",
+            "category": {
+                "id": 100,
+                "name": "其他"
+            },
+            "commentNum": 3,
+            "contentType": 1,
+            "createTime": 1548498133,
+            "filterWords": [
+                {
+                    "name": "屏蔽来源:时代阳光看娱乐",
+                    "type": "media"
+                },
+                {
+                    "name": "不想看:骁龙855",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不想看:联想",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不想看:硬件",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不感兴趣",
+                    "type": "unlike"
+                }
+            ],
+            "isRec": 0,
+            "isTop": 0,
+            "keyword": "骁龙855 联想 硬件",
+            "mediaId": "6488340522212524033",
+            "mediaName": "时代阳光看娱乐",
+            "newsId": "6494934840914216961",
+            "picNum": 5,
+            "pics": [
+                {
+                    "height": 342,
+                    "url": "http://p.cdn.sohu.com/723cf2ea/f8dba6190fac819f4b0056afad88a609.jpeg",
+                    "width": 532
+                },
+                {
+                    "height": 328,
+                    "url": "http://p.cdn.sohu.com/723cf2ea/b9a50d66340fb74128ab71fd48b6cac1.jpeg",
+                    "width": 540
+                },
+                {
+                    "height": 353,
+                    "url": "http://p.cdn.sohu.com/723cf2ea/6b235feffedcc94703a2556c2a60c4ad.jpeg",
+                    "width": 589
+                }
+            ],
+            "playCount": 0,
+            "recommendEvent": 0,
+            "recpool": 0,
+            "recreason": 1,
+            "score": 0.024507753551006317,
+            "state": 0,
+            "template": 3,
+            "title": "联想又甩霸气操作，骁龙855＋悬浮全面屏，令友商头大",
+            "virtualTime": 1548661405733
+        },
+        {
+            "articleUrl": "http://c.cdn.sohu.com/article/6495536216509777921",
+            "category": {
+                "id": 100,
+                "name": "其他"
+            },
+            "commentNum": 0,
+            "contentType": 1,
+            "createTime": 1548655787,
+            "filterWords": [
+                {
+                    "name": "屏蔽来源:楼市文石",
+                    "type": "media"
+                },
+                {
+                    "name": "不想看:湖北",
+                    "type": "keyword"
+                },
+                {
+                    "name": "不感兴趣",
+                    "type": "unlike"
+                }
+            ],
+            "isRec": 0,
+            "isTop": 0,
+            "keyword": "湖北",
+            "mediaId": "6463059493994364929",
+            "mediaName": "楼市文石",
+            "newsId": "6495536216509777921",
+            "picNum": 10,
+            "pics": [
+                {
+                    "height": 408,
+                    "url": "http://p.cdn.sohu.com/089a1b13/a556441afcb569a0e021c26dd270d6aa.jpeg",
+                    "width": 640
+                },
+                {
+                    "height": 409,
+                    "url": "http://p.cdn.sohu.com/089a1b13/13ef2f0e553e33ad227c0db18df4e4cb.jpeg",
+                    "width": 640
+                },
+                {
+                    "height": 425,
+                    "url": "http://p.cdn.sohu.com/089a1b13/f0c22140312a9f8e9786517927a960b9.jpeg",
+                    "width": 640
+                }
+            ],
+            "playCount": 0,
+            "recommendEvent": 0,
+            "recpool": 0,
+            "recreason": 0,
+            "score": 0.008525989949703217,
+            "state": 0,
+            "template": 3,
+            "title": "湖北黄石首次实现人口净流入 新增2.2万人口 原因何在？",
+            "virtualTime": 1548661405320
+        }
+    ],
+    "channelId": 1,
+    "channelName": "",
+    "city": "南京",
+    "displayInfo": "",
+    "errorCode": 0,
+    "exts": "chan:o,home:N_T,rank:o,loadId:7e61bc34c2780,ins_Tag:T_D,homeRecall:model,EE:o,INeg:n,video:O_O",
+    "ip": "49.77.166.62",
+    "loadid": "7e61bc34c2780",
+    "loadtime": 1548661410310,
+    "message": "success",
+    "reqtype": 0,
+    "supplement": 1,
+    "totalNum": 13
+}

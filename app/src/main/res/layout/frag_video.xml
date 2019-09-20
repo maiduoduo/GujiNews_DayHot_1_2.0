@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white">
+    <com.cnews.guji.smart.view.widget.TipView
+        android:id="@+id/tipView"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        app:tipBackgroundColor="@color/material_lightBlue_100"
+        app:tipText="为您推荐精选视频%s条内容"
+        app:tipTextColor="@color/material_lightBlue_500"
+        app:tipTextSize="11sp">
+    </com.cnews.guji.smart.view.widget.TipView>
+    <com.aspsine.swipetoloadlayout.SwipeToLoadLayout
+        android:id="@+id/swipeToLoadLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <include
+            android:id="@+id/swipe_refresh_header"
+            layout="@layout/layout_mtwm_header"/>
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/swipe_target"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="vertical"
+            android:clipToPadding="false" />
+
+    </com.aspsine.swipetoloadlayout.SwipeToLoadLayout>
+</LinearLayout>

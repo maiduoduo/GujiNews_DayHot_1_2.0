@@ -1,0 +1,121 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:textAllCaps">false</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowAnimationStyle">@style/AnimationActivity</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme"/>
+
+    <style name="AnimationActivity" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_left</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_left</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_right</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme1" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="ImageTranslucentTheme" parent="AppTheme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="AppTheme.Toolbars" parent="Widget.AppCompat.ActionBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@color/material_blueGrey_300</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+    </style>
+
+    <!--白天主题，此处直接和AppTheme一样-->
+    <style name="DayTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/night_one_text_color</item>
+
+        <item name="dayNightBackground">@color/day_backgroup_color</item>
+        <item name="dayNightOneTextColor">@color/day_one_text_color</item>
+        <item name="dayNightTwoTextColor">@color/day_two_text_color</item>
+        <item name="dayNightThreeTextColor">@color/day_three_text_color</item>
+        <item name="dayNightBackgroundDrawable">@color/day_backgroup_color</item>
+    </style>
+
+    <!--夜间主题-->
+    <style name="NightTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/night_backgroup_color</item>
+        <item name="colorPrimaryDark">@color/night_backgroup_color</item>
+        <item name="colorAccent">@color/night_backgroup_color</item>
+
+        <item name="dayNightBackground">@color/night_backgroup_color</item>
+        <item name="dayNightOneTextColor">@color/night_one_text_color</item>
+        <item name="dayNightTwoTextColor">@color/night_two_text_color</item>
+        <item name="dayNightThreeTextColor">@color/night_there_text_color</item>
+        <item name="dayNightBackgroundDrawable">@color/night_there_text_color</item>
+    </style>
+    <!--普通dialog-->
+    <style name="CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+    </style>
+    <style name="CustomProgressDialog" parent="@style/CustomDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <!--频道-->
+    <style name="news_channel_sort_title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/item_margin</item>
+        <item name="android:textColor">@color/gray_deep</item>
+        <item name="android:textSize">@dimen/font_normal</item>
+    </style>
+    <style name="action_bar">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">?attr/actionBarSize</item>
+    </style>
+
+    <!--ToolBar Theme-->
+    <style name="ToolBarTheme" parent="ThemeOverlay.AppCompat.Light">
+    </style>
+
+    <style name="TRM_ANIM_STYLE">
+        <item name="android:windowEnterAnimation">@anim/trm_popup_enter</item>
+        <item name="android:windowExitAnimation">@anim/trm_popup_exit</item>
+    </style>
+
+    <declare-styleable name="TipView">
+        <attr name="tipBackgroundColor" format="color"/>
+        <attr name="tipTextColor" format="color"/>
+        <attr name="tipText" format="string"/>
+        <attr name="tipTextSize" format="dimension"/>
+    </declare-styleable>
+
+</resources>

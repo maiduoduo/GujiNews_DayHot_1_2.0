@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="LP_BaseQuickAdapter_viewholder_support" type="id"/>
+    <item name="LP_BaseQuickAdapter_swiping_support" type="id"/>
+    <item name="LP_BaseQuickAdapter_dragging_support" type="id"/>
+    <item name="LP_BaseQuickAdapter_databinding_support" type="id"/>
+    <item name="LP_banner_indicatorId" type="id" />
+</resources>

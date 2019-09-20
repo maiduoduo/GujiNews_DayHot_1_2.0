@@ -1,0 +1,1468 @@
+{
+  "adcode": "320113",
+  "ads": "",
+  "adsType": 0,
+  "articles": [
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6504507296079415296",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 1,
+      "contentType": 3,
+      "createTime": 1550787700,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:喜欢吃水果的冉冉",
+          "type": "media"
+        },
+        {
+          "name": "不想看:故事",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:婚姻",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "故事 婚姻 宠物",
+      "mediaId": "6492521783650942976",
+      "mediaName": "喜欢吃水果的冉冉",
+      "newsId": "6504507296079415296",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/eee85694/f49305fc6a2c78e8a7fb836592112998",
+          "width": 870
+        }
+      ],
+      "playCount": 15989,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 1,
+      "score": 0.35614126772561155,
+      "state": 0,
+      "template": 9,
+      "title": "鹅：快点但到我怀里来。狗：你叫我来做就来那多没面",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 3024165,
+              "url": "http://v.cdn.sohu.com/0/26488d64100b5eefe3ddc106a1bff7c8/0"
+            }
+          ],
+          "duration": 34.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 3024165,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/26488d64100b5eefe3ddc106a1bff7c8/0"
+        }
+      ],
+      "virtualTime": 1550822054633
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6504440699184744450",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 0,
+      "contentType": 3,
+      "createTime": 1550736227,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:娱乐星侦",
+          "type": "media"
+        },
+        {
+          "name": "不想看:妈妈是超人",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:咘咘",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "妈妈是超人 咘咘 宠物",
+      "mediaId": "6428601891063595009",
+      "mediaName": "娱乐星侦",
+      "newsId": "6504440699184744450",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 720,
+          "url": "http://p.cdn.sohu.com/089a1b13/8a2c697293fcfb7ef7d71d56d14971ba",
+          "width": 1280
+        }
+      ],
+      "playCount": 83,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.13156969266760488,
+      "state": 0,
+      "template": 9,
+      "title": "妈妈是超人：咘咘超萌表情包来啦，吃货的伤，小饼干一秒治愈！",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 3062300,
+              "url": "http://v.cdn.sohu.com/93/51e885c6cd9edd6367b2fb33766b2b0b/1"
+            },
+            {
+              "size": 1526941,
+              "url": "http://v.cdn.sohu.com/93/51e885c6cd9edd6367b2fb33766b2b0b/0"
+            }
+          ],
+          "duration": 32.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 3062300,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/93/51e885c6cd9edd6367b2fb33766b2b0b/1"
+        }
+      ],
+      "virtualTime": 1550822052675
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6503868328358971393",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 0,
+      "contentType": 3,
+      "createTime": 1550638396,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:生活小诀窍S",
+          "type": "media"
+        },
+        {
+          "name": "不想看:烹饪技巧",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "烹饪技巧 宠物",
+      "mediaId": "6481790725724831744",
+      "mediaName": "生活小诀窍S",
+      "newsId": "6503868328358971393",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/eee85694/de9032ce40e5bad03244d488380154b4",
+          "width": 870
+        }
+      ],
+      "playCount": 1135,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.11978935255029795,
+      "state": 0,
+      "template": 9,
+      "title": "主人告诉烧鸡不能吃，这货只流口水，不敢吃",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 2834955,
+              "url": "http://v.cdn.sohu.com/0/67a9b1cd711a0618fe4069686f759985/0"
+            }
+          ],
+          "duration": 51.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 2834955,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/67a9b1cd711a0618fe4069686f759985/0"
+        }
+      ],
+      "virtualTime": 1550822050717
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6502029784632002560",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 3,
+      "contentType": 3,
+      "createTime": 1550200422,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:高兴认识一个女的",
+          "type": "media"
+        },
+        {
+          "name": "不想看:动物",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:蛇",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "动物 蛇 宠物",
+      "mediaId": "6495033684532396034",
+      "mediaName": "高兴认识一个女的",
+      "newsId": "6502029784632002560",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/eee85694/f334ee979c1d650b3db0fce58c37ac2f",
+          "width": 870
+        }
+      ],
+      "playCount": 10523,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.07634210175373478,
+      "state": 0,
+      "template": 9,
+      "title": "家中闯进一条毒蛇，被猫咪发现后，猫蛇大战一触即发-",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 4016731,
+              "url": "http://v.cdn.sohu.com/0/076d6db7ce38aeef96ebd69308013b3a/0"
+            }
+          ],
+          "duration": 54.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 4016731,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/076d6db7ce38aeef96ebd69308013b3a/0"
+        }
+      ],
+      "virtualTime": 1550822048759
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6502012082832017409",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 0,
+      "contentType": 3,
+      "createTime": 1550067902,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:美滋滋",
+          "type": "media"
+        },
+        {
+          "name": "不想看:狗",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "狗 宠物",
+      "mediaId": "6224115702547087362",
+      "mediaName": "美滋滋",
+      "newsId": "6502012082832017409",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 1080,
+          "url": "http://p.cdn.sohu.com/03f6845a/456ad7f378d9c140745a9b6ba5eef27c",
+          "width": 1920
+        }
+      ],
+      "playCount": 17,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.06486678402137436,
+      "state": 0,
+      "template": 9,
+      "title": "王者歪传：桃花潭水深千尺，不及汪狗送我情",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 755246,
+              "url": "http://v.cdn.sohu.com/14/b3e5e1cde00612203b44f9f92529250c"
+            }
+          ],
+          "duration": 15.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 755246,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/14/b3e5e1cde00612203b44f9f92529250c"
+        }
+      ],
+      "virtualTime": 1550822046801
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6501566547390105600",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 14,
+      "contentType": 3,
+      "createTime": 1550065641,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:TMASS",
+          "type": "media"
+        },
+        {
+          "name": "不想看:动物",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:蛇",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "动物 蛇 宠物",
+      "mediaId": "6494592699994210305",
+      "mediaName": "TMASS",
+      "newsId": "6501566547390105600",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 474,
+          "url": "http://p.cdn.sohu.com/eee85694/15117b8218a07276e80f06314f8c094a",
+          "width": 848
+        }
+      ],
+      "playCount": 12240,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.06294355968860649,
+      "state": 0,
+      "template": 9,
+      "title": "这是我见过最厉害的狗了，眼镜蛇还没反应过来就被咬着拖着走了",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 6839910,
+              "url": "http://v.cdn.sohu.com/0/c60507c1a363fdd420fbee44cb5ba22a/0"
+            }
+          ],
+          "duration": 84.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 6839910,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/c60507c1a363fdd420fbee44cb5ba22a/0"
+        }
+      ],
+      "virtualTime": 1550822044843
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6499915934310860801",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 10,
+      "contentType": 3,
+      "createTime": 1549666859,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:经典歌曲榜",
+          "type": "media"
+        },
+        {
+          "name": "不想看:烹饪技巧",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:甜品",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "烹饪技巧 甜品 宠物",
+      "mediaId": "6214251493776687105",
+      "mediaName": "经典歌曲榜",
+      "newsId": "6499915934310860801",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/cdedd044/dfed0a7375e1570bf8781b991c056997",
+          "width": 870
+        }
+      ],
+      "playCount": 2150,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.052926281743040385,
+      "state": 0,
+      "template": 9,
+      "title": "家里的两个吃货在厨房蹲点，妈妈看了哭笑不得",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 1071586,
+              "url": "http://v.cdn.sohu.com/0/dd17b0ef6f879f0f3fc7b0478d529b8f/0"
+            }
+          ],
+          "duration": 17.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 1071586,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/dd17b0ef6f879f0f3fc7b0478d529b8f/0"
+        }
+      ],
+      "virtualTime": 1550822042885
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6502946438262032385",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 3,
+      "contentType": 3,
+      "createTime": 1550382805,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:橙啊啊",
+          "type": "media"
+        },
+        {
+          "name": "不想看:盘古",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:后羿",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "盘古 后羿 宠物",
+      "mediaId": "6498239281025253377",
+      "mediaName": "橙啊啊",
+      "newsId": "6502946438262032385",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/eee85694/3cef30e553e806d63dcf2d22efbc63ef",
+          "width": 870
+        }
+      ],
+      "playCount": 125,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.0500040795541639,
+      "state": 0,
+      "template": 9,
+      "title": "王者荣耀：盘古重做增强归来，一个大招5条缝！很克射手",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 9868233,
+              "url": "http://v.cdn.sohu.com/0/b855d87c7a76e590ef2f2b1551cbe12b/0"
+            }
+          ],
+          "duration": 121.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 9868233,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/b855d87c7a76e590ef2f2b1551cbe12b/0"
+        }
+      ],
+      "virtualTime": 1550822040927
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6503099476930988032",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 0,
+      "contentType": 3,
+      "createTime": 1550455844,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:看航空",
+          "type": "media"
+        },
+        {
+          "name": "不想看:水上飞机",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:动物",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "水上飞机 动物 宠物",
+      "mediaId": "6183528861255335988",
+      "mediaName": "看航空",
+      "newsId": "6503099476930988032",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/eee85694/9fcd930ec73f10a9cbe5bd048ffe5935",
+          "width": 870
+        }
+      ],
+      "playCount": 19,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.040313216880619625,
+      "state": 0,
+      "template": 9,
+      "title": "可以水上起飞的DHC-3“水獭”水上飞机 优雅本尊了！",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 18364035,
+              "url": "http://v.cdn.sohu.com/0/22b273c5e0b27452b4fdf778db20dda9/0"
+            }
+          ],
+          "duration": 136.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 18364035,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/22b273c5e0b27452b4fdf778db20dda9/0"
+        }
+      ],
+      "virtualTime": 1550822038969
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6497788705778960384",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 0,
+      "contentType": 3,
+      "createTime": 1549162947,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:小缘资讯",
+          "type": "media"
+        },
+        {
+          "name": "不想看:哈士奇",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:核潜艇",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "哈士奇 核潜艇 宠物",
+      "mediaId": "6482957131560517633",
+      "mediaName": "小缘资讯",
+      "newsId": "6497788705778960384",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/cdedd044/c192e20dfef4cf3beb7f53cda7761a2f",
+          "width": 870
+        }
+      ],
+      "playCount": 879,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.024902320145476643,
+      "state": 0,
+      "template": 9,
+      "title": "俄哈士奇核潜艇搭载无人潜航器，极北之地眼睛更远",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 1373040,
+              "url": "http://v.cdn.sohu.com/0/67ced7b67fa70b46ddbb6b04ee0586e8/0"
+            }
+          ],
+          "duration": 36.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 1373040,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/67ced7b67fa70b46ddbb6b04ee0586e8/0"
+        }
+      ],
+      "virtualTime": 1550822037011
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6504532590110705665",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 0,
+      "contentType": 3,
+      "createTime": 1550801071,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:成成讲育儿",
+          "type": "media"
+        },
+        {
+          "name": "不想看:育儿",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:玩具",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "育儿 玩具 宠物",
+      "mediaId": "6463987745466351616",
+      "mediaName": "成成讲育儿",
+      "newsId": "6504532590110705665",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 720,
+          "url": "http://p.cdn.sohu.com/089a1b13/1c11f7a618d10ccfb28dc1865962addf",
+          "width": 1280
+        }
+      ],
+      "playCount": 2394,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 1,
+      "score": 0.37429472352303045,
+      "state": 0,
+      "template": 9,
+      "title": "出生9天的小婴儿装睡被爸爸发现, 下一秒宝宝反应，笑喷无数人",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 968468,
+              "url": "http://v.cdn.sohu.com/93/6511d763f1aca4975b8906af19922084/1"
+            },
+            {
+              "size": 573136,
+              "url": "http://v.cdn.sohu.com/93/6511d763f1aca4975b8906af19922084/0"
+            }
+          ],
+          "duration": 20.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 968468,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/93/6511d763f1aca4975b8906af19922084/1"
+        }
+      ],
+      "virtualTime": 1550822001738
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6504408843789797377",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 0,
+      "contentType": 3,
+      "createTime": 1550735196,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:木头吃小鱼",
+          "type": "media"
+        },
+        {
+          "name": "不想看:烹饪技巧",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:排骨",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "烹饪技巧 排骨 宠物",
+      "mediaId": "6225066273156366336",
+      "mediaName": "木头吃小鱼",
+      "newsId": "6504408843789797377",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 201,
+          "url": "http://p.cdn.sohu.com/eee85694/fc5866a733751aae22582de7d4d8a70f",
+          "width": 360
+        }
+      ],
+      "playCount": 706,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.193951524080508,
+      "state": 0,
+      "template": 9,
+      "title": "从未见过这么喜欢吃苦瓜的萨摩，为了吃苦瓜，竟宁愿放弃烧鸡",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 2366451,
+              "url": "http://v.cdn.sohu.com/0/0203e85679f868f9a2c93440750f2045/0"
+            }
+          ],
+          "duration": 38.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 2366451,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/0203e85679f868f9a2c93440750f2045/0"
+        }
+      ],
+      "virtualTime": 1550821935072
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6503990433310312449",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 0,
+      "contentType": 3,
+      "createTime": 1550642041,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:创作达人强",
+          "type": "media"
+        },
+        {
+          "name": "不想看:水果",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "水果 宠物",
+      "mediaId": "6486819738667188224",
+      "mediaName": "创作达人强",
+      "newsId": "6503990433310312449",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/eee85694/d0b8bd6a9bd45168ee0a858b96d9ea97",
+          "width": 870
+        }
+      ],
+      "playCount": 396,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.1381309402885073,
+      "state": 0,
+      "template": 9,
+      "title": "喂法斗吃零食，这小眼神直直得盯着零食",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 1884420,
+              "url": "http://v.cdn.sohu.com/0/097e28536cb0fe1912f7f2155ad49da4/0"
+            }
+          ],
+          "duration": 32.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 1884420,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/097e28536cb0fe1912f7f2155ad49da4/0"
+        }
+      ],
+      "virtualTime": 1550821868406
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6503434276342597634",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 10,
+      "contentType": 3,
+      "createTime": 1550539248,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:小灰聊八卦",
+          "type": "media"
+        },
+        {
+          "name": "不想看:比基尼",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:美女",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "比基尼 美女 宠物",
+      "mediaId": "6494423938406285314",
+      "mediaName": "小灰聊八卦",
+      "newsId": "6503434276342597634",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 474,
+          "url": "http://p.cdn.sohu.com/eee85694/8e3042842b49f641408a163d952bd6e0",
+          "width": 848
+        }
+      ],
+      "playCount": 57793,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.10001965769594663,
+      "state": 0,
+      "template": 9,
+      "title": "正在玩水，突然冒出跳动“花斑蛇”，下一幕比基尼美眉反应真大",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 2624300,
+              "url": "http://v.cdn.sohu.com/0/7305fdb0f6a8d17792a5942698e86c14/0"
+            }
+          ],
+          "duration": 21.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 2624300,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/7305fdb0f6a8d17792a5942698e86c14/0"
+        }
+      ],
+      "virtualTime": 1550821801740
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6503031872119900160",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 3,
+      "contentType": 3,
+      "createTime": 1550442000,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:萌宠一逗你玩",
+          "type": "media"
+        },
+        {
+          "name": "不想看:面条",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:小吃",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "面条 小吃 宠物",
+      "mediaId": "6482261406254104577",
+      "mediaName": "萌宠一逗你玩",
+      "newsId": "6503031872119900160",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/eee85694/4258241a8007b281570ad8758254d9f6",
+          "width": 870
+        }
+      ],
+      "playCount": 23308,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.09197566815921551,
+      "state": 0,
+      "template": 9,
+      "title": "铲屎官欺负金毛大妃就给了一根面条，大迪：吃面条得用盆！太逗了",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 1979317,
+              "url": "http://v.cdn.sohu.com/0/c83e340d100ed585a649829c4aaa59cd/0"
+            }
+          ],
+          "duration": 21.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 1979317,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/c83e340d100ed585a649829c4aaa59cd/0"
+        }
+      ],
+      "virtualTime": 1550821735074
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6504504530888034305",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 0,
+      "contentType": 3,
+      "createTime": 1550649893,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:媛娜世悦",
+          "type": "media"
+        },
+        {
+          "name": "不想看:狗",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "狗 宠物",
+      "mediaId": "6481904610289123328",
+      "mediaName": "媛娜世悦",
+      "newsId": "6504504530888034305",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 280,
+          "url": "http://p.cdn.sohu.com/cdedd044/cbb5a9f30b18b31fd4a1addda61389c4",
+          "width": 502
+        }
+      ],
+      "playCount": 182,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.08177934727581629,
+      "state": 0,
+      "template": 9,
+      "title": "狗打得过蛇吗？替小主人挡住一米多长毒蛇致命一击的德牧！",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 2903515,
+              "url": "http://v.cdn.sohu.com/0/00edb36e4ee548e39b964eade6e9a249/0"
+            }
+          ],
+          "duration": 61.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 2903515,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/00edb36e4ee548e39b964eade6e9a249/0"
+        }
+      ],
+      "virtualTime": 1550821668408
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6504084039912130560",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 1,
+      "contentType": 3,
+      "createTime": 1550675944,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:最强观点",
+          "type": "media"
+        },
+        {
+          "name": "不想看:核潜艇",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:海军",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "核潜艇 海军 宠物",
+      "mediaId": "6494639489095303168",
+      "mediaName": "最强观点",
+      "newsId": "6504084039912130560",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 200,
+          "url": "http://p.cdn.sohu.com/18fd4bda/thumb/1dc2b68055e4290df490f0ee289ce045.jpeg",
+          "width": 300
+        }
+      ],
+      "playCount": 120,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.07997229947124193,
+      "state": 0,
+      "template": 9,
+      "title": "日本“苍龙”级柴电动力常规攻击潜艇",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 51350773,
+              "url": "http://v.cdn.sohu.com/11/19fd566d49359fbe5a454c5ad1a54ec7/2"
+            },
+            {
+              "size": 24031312,
+              "url": "http://v.cdn.sohu.com/11/19fd566d49359fbe5a454c5ad1a54ec7/1"
+            },
+            {
+              "size": 15739564,
+              "url": "http://v.cdn.sohu.com/11/19fd566d49359fbe5a454c5ad1a54ec7/0"
+            }
+          ],
+          "duration": 226.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 51350773,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/11/19fd566d49359fbe5a454c5ad1a54ec7/2"
+        }
+      ],
+      "virtualTime": 1550821601742
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6502147477582383105",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 0,
+      "contentType": 3,
+      "createTime": 1550209828,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:魏来故事",
+          "type": "media"
+        },
+        {
+          "name": "不想看:猫",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "猫 宠物",
+      "mediaId": "6498328196058972161",
+      "mediaName": "魏来故事",
+      "newsId": "6502147477582383105",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 486,
+          "url": "http://p.cdn.sohu.com/cdedd044/b9ac9f11943c73d10a55bf8822ddee89",
+          "width": 870
+        }
+      ],
+      "playCount": 71,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.07098952017549519,
+      "state": 0,
+      "template": 9,
+      "title": "他曾经是个王者，没想到却因为猫咪成了青铜！",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 4096684,
+              "url": "http://v.cdn.sohu.com/0/e7010014530b4fa22ca576491b68fa5a/0"
+            },
+            {
+              "size": 2133711,
+              "url": "http://v.cdn.sohu.com/0/e7010014530b4fa22ca576491b68fa5a/1"
+            },
+            {
+              "size": 1572414,
+              "url": "http://v.cdn.sohu.com/0/e7010014530b4fa22ca576491b68fa5a/2"
+            }
+          ],
+          "duration": 30.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 4096684,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/e7010014530b4fa22ca576491b68fa5a/0"
+        }
+      ],
+      "virtualTime": 1550821535076
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6503536068317415424",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 0,
+      "contentType": 3,
+      "createTime": 1550563240,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:天天小影",
+          "type": "media"
+        },
+        {
+          "name": "不想看:阿珂",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:狂犬病",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "阿珂 狂犬病 宠物",
+      "mediaId": "6476895500237799424",
+      "mediaName": "天天小影",
+      "newsId": "6503536068317415424",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 718,
+          "url": "http://p.cdn.sohu.com/089a1b13/25e0410f3de8fc00444bafe4a0323565",
+          "width": 1280
+        }
+      ],
+      "playCount": 49,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.06877494764854582,
+      "state": 0,
+      "template": 9,
+      "title": "王者歪传：汪狗外星人都拿出来了，阿珂还是不满意，汪狗放大招了",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 10033213,
+              "url": "http://v.cdn.sohu.com/93/c374f757cf628a833ffbb35ff56b6fd0/0"
+            },
+            {
+              "size": 4601232,
+              "url": "http://v.cdn.sohu.com/93/c374f757cf628a833ffbb35ff56b6fd0/1"
+            }
+          ],
+          "duration": 94.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 10033213,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/93/c374f757cf628a833ffbb35ff56b6fd0/0"
+        }
+      ],
+      "virtualTime": 1550821468410
+    },
+    {
+      "abs": "",
+      "articleUrl": "http://c.cdn.sohu.com/article/6503728116475627520",
+      "category": {
+        "id": 100,
+        "name": "其他"
+      },
+      "commentNum": 0,
+      "contentType": 3,
+      "createTime": 1550554591,
+      "filterWords": [
+        {
+          "name": "屏蔽来源:頹廢却覺醒",
+          "type": "media"
+        },
+        {
+          "name": "不想看:水上飞机",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:动物",
+          "type": "keyword"
+        },
+        {
+          "name": "不想看:宠物",
+          "type": "keyword"
+        },
+        {
+          "name": "不感兴趣",
+          "type": "unlike"
+        }
+      ],
+      "isRec": 0,
+      "isTop": 0,
+      "keyword": "水上飞机 动物 宠物",
+      "mediaId": "6483258847417860096",
+      "mediaName": "頹廢却覺醒",
+      "newsId": "6503728116475627520",
+      "picNum": 0,
+      "pics": [
+        {
+          "height": 358,
+          "url": "http://p.cdn.sohu.com/eee85694/a51dad59761ebf500bae00987f24f028",
+          "width": 640
+        }
+      ],
+      "playCount": 49,
+      "recommendEvent": 0,
+      "recpool": 0,
+      "recreason": 0,
+      "score": 0.05169284379677301,
+      "state": 0,
+      "template": 9,
+      "title": "可以水上起飞的DHC-3“水獭”水上飞机 优雅本尊了！",
+      "videos": [
+        {
+          "definitionInfos": [
+            {
+              "size": 15081551,
+              "url": "http://v.cdn.sohu.com/0/c07a3ed7e64e92ed67898034a1d31e06/0"
+            }
+          ],
+          "duration": 132.0,
+          "hd_id": 0,
+          "rate": "0",
+          "size": 15081551,
+          "type": 0,
+          "url": "http://v.cdn.sohu.com/0/c07a3ed7e64e92ed67898034a1d31e06/0"
+        }
+      ],
+      "virtualTime": 1550821401744
+    }
+  ],
+  "channelId": 150,
+  "channelName": "萌宠",
+  "city": "栖霞区",
+  "displayInfo": "",
+  "errorCode": 0,
+  "exts": "chan:o,home:N_T,rank:o,loadId:866e3153437c0,ins_Tag:T_D,homeRecall:model,EE:o,INeg:n,video:O_O",
+  "ip": "180.111.35.154",
+  "loadid": "866e3153437c0",
+  "loadtime": 1550822001760,
+  "message": "success",
+  "reqtype": 0,
+  "supplement": 1,
+  "totalNum": 10
+}

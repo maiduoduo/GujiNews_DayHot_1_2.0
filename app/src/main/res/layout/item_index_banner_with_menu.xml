@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--android:focusable="true"
+    android:focusableInTouchMode="true"-->
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:fitsSystemWindows="true"
+    android:focusable="true"
+    android:background="@color/white"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/transparent"/>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.youth.banner.Banner
+            android:id="@+id/banner1"
+            app:image_scale_type="fit_xy"
+            android:paddingBottom="20dp"
+            app:indicator_width="8dp"
+            app:indicator_height="8dp"
+            app:indicator_margin="3dp"
+            app:indicator_drawable_selected="@drawable/news_banner_heart_red_enabled"
+            app:indicator_drawable_unselected="@drawable/news_banner_heart_white_enabled"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/banner_heights"
+            fresco:banner_default_image="@drawable/default_img_guji" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="220dp"
+            android:orientation="horizontal">
+            <com.cnews.guji.smart.helper.imageview.ExpandImageView
+                android:id="@+id/menu_a"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="96dp"
+                android:layout_gravity="center_vertical"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                tools:src="@mipmap/menus_1"
+                fresco:placeholderImage="@drawable/default_img_guji" />
+            <com.cnews.guji.smart.helper.imageview.ExpandImageView
+                android:id="@+id/menu_b"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="96dp"
+                android:layout_gravity="center_vertical"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                tools:src="@mipmap/menus_1"
+                fresco:placeholderImage="@drawable/default_img_guji" />
+            <com.cnews.guji.smart.helper.imageview.ExpandImageView
+                android:id="@+id/menu_c"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="96dp"
+                android:layout_gravity="center_vertical"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                tools:src="@mipmap/menus_1"
+                fresco:placeholderImage="@drawable/default_img_guji" />
+            <com.cnews.guji.smart.helper.imageview.ExpandImageView
+                android:id="@+id/menu_d"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="96dp"
+                android:layout_gravity="center_vertical"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                tools:src="@mipmap/menus_1"
+                fresco:placeholderImage="@drawable/default_img_guji" />
+            <com.cnews.guji.smart.helper.imageview.ExpandImageView
+                android:id="@+id/menu_e"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="96dp"
+                android:layout_gravity="center_vertical"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                tools:src="@mipmap/menus_1"
+                fresco:placeholderImage="@drawable/default_img_guji" />
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+</RelativeLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:background="@color/white"
+    android:gravity="center"
+    android:padding="@dimen/dp_10"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/civTopBarNum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dp_5"
+        android:textSize="16sp"
+        android:textColor="@color/Gray1"
+        android:textStyle="bold"
+        android:text="126"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dp_10"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <android.support.v7.widget.AppCompatImageView
+            android:id="@+id/civTopBarIco"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:scaleType="fitXY"
+            app:srcCompat="@mipmap/ico_topbar_yxl" />
+        <TextView
+            android:id="@+id/civTopBarText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:textSize="12sp"
+            android:textColor="@color/Gray4"
+            android:text="影响力"/>
+    </LinearLayout>
+</LinearLayout>

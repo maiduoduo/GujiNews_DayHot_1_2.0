@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textColor="#666666"
+        android:textSize="16sp"
+        android:gravity="center|left"
+        android:paddingLeft="15dp"
+        android:text="这是第一条文本" />
+</FrameLayout>

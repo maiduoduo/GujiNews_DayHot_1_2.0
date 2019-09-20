@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:layout_marginTop="@dimen/dp_20"
+    android:layout_marginLeft="@dimen/dp_10"
+    android:layout_marginRight="@dimen/dp_10"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="@dimen/dp_10"
+    app:cardElevation="5dp"
+    app:contentPadding="@dimen/dp_10">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical">
+        <include layout="@layout/item_profile_my_title"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="4"
+            android:layout_marginTop="@dimen/dp_20"
+            android:layout_marginBottom="@dimen/dp_15"
+            android:orientation="horizontal">
+            <include
+                android:id="@+id/llWallet1"
+                layout="@layout/item_profile_wallet_contentitem"/>
+            <include
+                android:id="@+id/llWallet2"
+                layout="@layout/item_profile_wallet_contentitem"/>
+            <include
+                android:id="@+id/llWallet3"
+                layout="@layout/item_profile_wallet_contentitem"/>
+            <include
+                android:id="@+id/llWallet4"
+                layout="@layout/item_profile_wallet_contentitem"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

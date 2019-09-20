@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tl="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <com.cnews.guji.smart.view.widget.NoScrollViewPager
+        android:layout_weight="1"
+        android:id="@+id/mainViewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <com.flyco.tablayout.CommonTabLayout
+        android:id="@+id/commonTabLayout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#ffffff"
+        tl:tl_iconHeight="21dp"
+        tl:tl_iconWidth="21dp"
+        tl:tl_indicator_color="@color/title_bg_red"
+        tl:tl_indicator_height="0dp"
+        tl:tl_textSelectColor="@color/title_bg_red"
+        tl:tl_textUnselectColor="#66000000"
+        tl:tl_textsize="11sp"
+        tl:tl_underline_color="#DDDDDD"
+        tl:tl_underline_height="1dp"/>
+
+
+</LinearLayout>
+
+
+
+
+
+
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tl="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <android.support.v4.view.ViewPager
+        android:layout_weight="1"
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <com.flyco.tablayout.CommonTabLayout
+        android:id="@+id/tab_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_alignParentBottom="true"
+        android:background="?attr/dayNightBackground"
+        app:dayNightBackgroundAttr="dayNightBackground"
+        tl:tl_indicator_height="0dp"
+        tl:tl_iconHeight="20dp"
+        tl:tl_iconWidth="20dp"
+        tl:tl_indicator_color="@color/gray"
+        tl:tl_textSelectColor="@color/main_color"
+        tl:tl_textUnselectColor="@color/light_gray"
+        tl:tl_textsize="11sp"
+        tl:tl_underline_height="0dp" />
+</LinearLayout>-->
+
+
+

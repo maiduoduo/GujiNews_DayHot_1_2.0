@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:background="@color/LGray3"
+    app:contentInsetStart="0dp"
+    android:paddingLeft="-2dp"
+    android:orientation="vertical">
+
+    <View
+        android:visibility="gone"
+        android:id="@+id/fake_status_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/statusbar_view_height"
+        android:background="@color/colorPrimary" />
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:text="追踪     |     我的追踪"
+        android:textColor="@color/Gray2"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <include layout="@layout/line_layout" />
+
+
+  <!--  <com.cnews.cloudnews.smart.helper.imageview.shapesimage.ShapesImage
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:scaleType="fitXY"
+        android:src="@mipmap/fnews_a" />-->
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bg_monkey_king"
+        android:visibility="gone" />
+    <com.cnews.guji.smart.view.widget.TipView
+        android:id="@+id/tipView"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        app:tipBackgroundColor="@color/material_lightBlue_100"
+        app:tipText="为您推荐精选视频%s条内容"
+        app:tipTextColor="@color/material_lightBlue_500"
+        app:tipTextSize="11sp">
+    </com.cnews.guji.smart.view.widget.TipView>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.cnews.guji.smart.helper.refresh.ypx_refreshlayout.YPXQQRefreshView
+            android:id="@+id/refreshableView1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="visible">
+            <!--<android.support.v4.widget.NestedScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/Gray2"
+                    android:textSize="150sp"
+                    android:text="123456789456789"/>
+            </android.support.v4.widget.NestedScrollView>-->
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/recyclerview1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:overScrollMode="never" />
+        </com.cnews.guji.smart.helper.refresh.ypx_refreshlayout.YPXQQRefreshView>
+
+    </RelativeLayout>
+
+</LinearLayout>

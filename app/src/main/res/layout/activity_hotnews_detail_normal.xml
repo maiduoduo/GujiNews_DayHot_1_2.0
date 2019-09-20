@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+     <android.support.v7.widget.Toolbar
+         android:id="@+id/toolbar"
+         android:layout_width="match_parent"
+         android:layout_height="?attr/actionBarSize"
+         android:background="@color/white"
+         app:contentInsetStart="0dp"
+         app:layout_scrollFlags="scroll|enterAlways"
+         app:popupTheme="@style/ToolBarTheme">
+
+          <RelativeLayout
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:paddingRight="@dimen/dp_10">
+
+               <ImageView
+                   android:id="@+id/ivHideBack"
+                   android:layout_width="25dp"
+                   android:layout_height="25dp"
+                   android:layout_centerVertical="true"
+                   android:layout_marginLeft="@dimen/dp_10"
+                   android:onClick="ivHideBack"
+                   android:background="@drawable/back_tb_a" />
+
+               <ImageView
+                   android:layout_width="@dimen/dp_30"
+                   android:layout_height="@dimen/dp_30"
+                   android:layout_centerVertical="true"
+                   android:layout_alignParentRight="true"
+                   android:background="@mipmap/ic_video_more_black_normal" />
+
+          </RelativeLayout>
+     </android.support.v7.widget.Toolbar>
+     <ScrollView
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:background="@color/white">
+          <LinearLayout
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:padding="10dp"
+              android:paddingLeft="@dimen/dp_20"
+              android:paddingRight="@dimen/dp_20"
+              android:paddingBottom="@dimen/dp_15"
+              android:orientation="vertical">
+               <TextView
+                   android:id="@+id/tvTitle"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:maxLines="3"
+                   android:textSize="20sp"
+                   android:paddingTop="10dp"
+                   android:paddingBottom="@dimen/dp_10"
+                   android:textStyle="bold"
+                   android:textColor="@color/black"
+                   android:text=""/>
+               <TextView
+                   android:id="@+id/tvDatesSource"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:maxLines="1"
+                   android:textSize="11sp"
+                   android:textColor="@color/Gray3"
+                   android:text=""/>
+               <TextView
+                   android:id="@+id/tvHtml"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:layout_marginTop="25dp"
+                   android:paddingTop="10dp"
+                   android:paddingBottom="@dimen/dp_10"
+                   android:paddingLeft="@dimen/dp_10"
+                   android:paddingRight="@dimen/dp_10"
+                   android:textSize="17sp"
+                   android:textColor="@color/Gray2"
+                   android:text=""/>
+          </LinearLayout>
+
+     </ScrollView>
+</LinearLayout>

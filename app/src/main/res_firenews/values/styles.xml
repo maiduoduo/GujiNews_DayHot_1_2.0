@@ -1,0 +1,30 @@
+<resources>
+    <!--<style name="BannerDefaultStyle">
+        <item name="android:layout_width">match_parent</item>
+        &lt;!&ndash; 自定义属性在styles.xml中不需要命名空间,直接用属性名就可以了 &ndash;&gt;
+        &lt;!&ndash; 开启自动轮播 &ndash;&gt;
+        <item name="banner_pointAutoPlayAble">true</item>
+        &lt;!&ndash; 自动轮播的时间间隔 &ndash;&gt;
+        <item name="banner_pointAutoPlayInterval">3000</item>
+        &lt;!&ndash; 指示点容器背景 &ndash;&gt;
+        <item name="banner_pointContainerBackground">#44aaaaaa</item>
+        &lt;!&ndash; 指示点背景 &ndash;&gt;
+        <item name="banner_pointDrawable">@drawable/news_banner_selector_point_hollow</item>
+        &lt;!&ndash; 指示点容器左右内间距 &ndash;&gt;
+        <item name="banner_pointContainerLeftRightPadding">10dp</item>
+        &lt;!&ndash; 指示点上下外间距 &ndash;&gt;
+        <item name="banner_pointTopBottomMargin">2dp</item>
+        &lt;!&ndash; 指示点左右外间距 &ndash;&gt;
+        <item name="banner_pointLeftRightMargin">3dp</item>
+        &lt;!&ndash; 指示器的位置 &ndash;&gt;
+        <item name="banner_indicatorGravity">bottom|center_horizontal</item>
+        &lt;!&ndash; 页码切换过程的时间长度 &ndash;&gt;
+        <item name="banner_pageChangeDuration">800</item>
+        &lt;!&ndash; 提示文案的文字大小 &ndash;&gt;
+        <item name="banner_tipTextSize">10sp</item>
+        &lt;!&ndash; 提示文案的文字颜色 &ndash;&gt;
+        <item name="banner_tipTextColor">@android:color/white</item>
+        &lt;!&ndash; 加载网络数据时覆盖在BGABanner最上层的占位图 &ndash;&gt;
+        <item name="banner_placeholderDrawable">@drawable/default_img_guji</item>
+    </style>-->
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <FrameLayout
+        android:id="@+id/flHoriRoot"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="150dp"
+        android:background="@color/white">
+        <com.cnews.guji.smart.helper.imageview.ExpandImageView
+            android:id="@+id/article_img"
+            android:layout_width="280dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            fresco:placeholderImage="@mipmap/place_image_default"
+            fresco:roundBottomLeft="true"
+            fresco:roundBottomRight="true"
+            fresco:roundTopLeft="true"
+            fresco:roundTopRight="true"
+            fresco:roundedCornerRadius="7dp"
+            tools:src="@mipmap/img_banner2" />
+
+        <TextView
+            android:id="@+id/horiTitle"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:paddingLeft="10dp"
+            android:paddingRight="@dimen/dp_10"
+            android:paddingBottom="15dp"
+            android:maxLines="2"
+            android:text="孕妇半路的那份科技发达是发复旦舍不得放手角度上看你付款计算得分"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+    </FrameLayout>
+
+</LinearLayout>

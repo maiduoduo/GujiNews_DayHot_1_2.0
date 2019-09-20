@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+    <ImageView
+        android:id="@+id/mServiceImg"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@mipmap/ico_wait_order"
+        android:scaleType="fitXY"/>
+    <TextView
+        android:text="快速购买"
+        android:id="@+id/mServiceTv"
+        android:textSize="10sp"
+        android:textStyle="bold"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/Gray1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

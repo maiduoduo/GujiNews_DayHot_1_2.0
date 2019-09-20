@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="20dp"
+        android:background="@drawable/home_bulletin_corner_bg"
+        android:orientation="horizontal">
+        <com.cnews.guji.smart.helper.imageview.ExpandImageView
+            android:id="@+id/title_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true"
+            android:background="@mipmap/hot_news_title_image"/>
+        <com.cnews.guji.smart.helper.UpDownViewSwitcher
+            android:id="@+id/home_view_switcher"
+            android:layout_gravity="center_vertical"
+            app:animator_duration="400"
+            app:switch_duration="3000"
+            app:up_to_down="false"
+            app:animator_translate_distance="40dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/btm_divider_best"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/LGray3" />
+</LinearLayout>
