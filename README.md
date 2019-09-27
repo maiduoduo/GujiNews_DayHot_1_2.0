@@ -68,6 +68,7 @@
 > 目前兼容Android5.0+，基於5.0以下可能會出現图片处理或者ANR。
 
 ### 下载Demo,安装看看
+[![guji.new](img/20/guji_link.PNG)](https://s.beta.myapp.com/myapp/rdmexp/exp/file2/2019/09/19/comcnewsgujismart_1.2.0_403e7e90-4880-5667-af34-aec3014ab4b0.apk)
 
 [下载地址](https://s.beta.myapp.com/myapp/rdmexp/exp/file2/2019/09/19/comcnewsgujismart_1.2.0_403e7e90-4880-5667-af34-aec3014ab4b0.apk)
 
