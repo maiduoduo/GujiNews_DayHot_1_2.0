@@ -11,8 +11,8 @@
 
 ### 咕唧新闻平台V1.8.2
 
-[点击加载到1.8.2(2.0)版本库源码]（https://github.com/maiduoduo/GuJiNews_DayHot_2.0）
 
+[点击加载到1.8.2版本库源码](https://github.com/maiduoduo/GuJiNews_DayHot_2.0)
 
 </br>
 </br>
