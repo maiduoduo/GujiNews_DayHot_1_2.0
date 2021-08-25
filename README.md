@@ -7,12 +7,21 @@
 
 **目前项目上传的为1.2.2版本，2.0版本源码由于某些原因没有放上来，如有学习需要或者问题探讨，请[Issues](https://github.com/maiduoduo/GujiNews_DayHot_1_2.0/issues)我，可以私信2.0版本源码，并给个⭐star⭐！希望能够帮助到你**
 
+
+★ **目前已停止维护**
+
+★★★★ 现已上载1.8.2（2.0）版本
+
+[点击加载到1.8.2版本库源码](https://github.com/maiduoduo/GuJiNews_DayHot_2.0)
+
 ---
 
 ### 咕唧新闻平台V1.8.2
 
 
-[点击加载到1.8.2版本库源码](https://github.com/maiduoduo/GuJiNews_DayHot_2.0)
+
+
+
 
 </br>
 </br>
